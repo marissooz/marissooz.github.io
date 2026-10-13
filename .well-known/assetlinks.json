@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.groove.groove_app",
+      "sha256_cert_fingerprints": [
+        "5B:F7:10:61:76:3A:FE:40:91:FC:01:47:5B:45:AA:31:63:E6:AE:44:FD:0F:1A:55:13:11:C5:FA:D7:E3:E0:4C"
+      ]
+    }
+  }
+]

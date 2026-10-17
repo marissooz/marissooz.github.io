@@ -1,0 +1,14 @@
+{
+  "manifestVersion": 1,
+  "generatedAt": "2026-10-17T08:53:45Z",
+  "packs": [
+    {
+      "id": "generaliste",
+      "name": "Pack généraliste",
+      "version": 1,
+      "cardCount": 150,
+      "url": "https://marissooz.github.io/catalogue/packs/generaliste-v1.json",
+      "checksum": "2406e678fcf87def758d609b0f594a0a2f20a41eca4b63d19257d9de75b9c42a"
+    }
+  ]
+}

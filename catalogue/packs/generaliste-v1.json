@@ -1,0 +1,2581 @@
+{
+  "id": "generaliste",
+  "name": "Pack généraliste",
+  "version": 1,
+  "checksum": "c054293db31f9b93eb858f306350747710e5b3c78a8488a09868868c61ab7309",
+  "cards": [
+    {
+      "id": "glc-e449eb4801",
+      "spotifyTrackUri": "spotify:track:4gphxUgq0JSFv2BCLhNDiE",
+      "isrc": "USRC15705223",
+      "title": "Jailhouse Rock",
+      "artists": [
+        "Elvis Presley"
+      ],
+      "originalYear": 1957,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d73742ce-fffa-40a0-84e6-8abd263c8115"
+    },
+    {
+      "id": "glc-6263fca92c",
+      "spotifyTrackUri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2",
+      "isrc": "USMC15719963",
+      "title": "Johnny B. Goode",
+      "artists": [
+        "Chuck Berry"
+      ],
+      "originalYear": 1958,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "21cc39ba-11a1-4cb3-a00b-ab9048fa6cd3"
+    },
+    {
+      "id": "glc-8538e024a5",
+      "spotifyTrackUri": "spotify:track:1YQWosTIljIvxAgHWTp7KP",
+      "isrc": "USSM15900108",
+      "title": "Take Five",
+      "artists": [
+        "The Dave Brubeck Quartet"
+      ],
+      "originalYear": 1959,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "69db5ee7-2114-4dda-981d-d2aa8cba6f1f"
+    },
+    {
+      "id": "glc-0bbebafd86",
+      "spotifyTrackUri": "spotify:track:5Lhjlnly9Ynhf52ojQS534",
+      "isrc": "QMSGD1370006",
+      "title": "My Baby Just Cares for Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "originalYear": 1958,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a2c3d299-167c-47d4-ae4a-2f8b607645c6"
+    },
+    {
+      "id": "glc-25dcf131b2",
+      "spotifyTrackUri": "spotify:track:1CXcTLzJ3b2KJylbsbF0cE",
+      "isrc": "FRZ035200190",
+      "title": "La mauvaise réputation",
+      "artists": [
+        "Georges Brassens"
+      ],
+      "originalYear": 1952,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "676b0c39-9c57-4560-80ab-0e935ffb0824"
+    },
+    {
+      "id": "glc-21caa18d97",
+      "spotifyTrackUri": "spotify:track:6Ea6rWYYVeUjRa4VBp4f1S",
+      "isrc": "FRZ035400340",
+      "title": "Chanson pour l'auvergnat",
+      "artists": [
+        "Georges Brassens"
+      ],
+      "originalYear": 1954,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f12baa80-d82a-45d6-ad25-4a69c8d5fd6c"
+    },
+    {
+      "id": "glc-5154b2558d",
+      "spotifyTrackUri": "spotify:track:3aPlQWU07jGgyHaBHVS5TS",
+      "isrc": "USCA20000950",
+      "title": "Fever",
+      "artists": [
+        "Peggy Lee"
+      ],
+      "originalYear": 1958,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "15e883d4-a77c-4bc8-aa2b-42209946b42e"
+    },
+    {
+      "id": "glc-ac60a7c3cc",
+      "spotifyTrackUri": "spotify:track:4dd7hkuqTSkpSrEkhEB4YV",
+      "isrc": "FRZ015900370",
+      "title": "Love In Portofino",
+      "artists": [
+        "Dalida"
+      ],
+      "originalYear": 1959,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "769ddf98-df3b-4572-a02c-e3889819f805"
+    },
+    {
+      "id": "glc-78b3059a09",
+      "spotifyTrackUri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg",
+      "isrc": "USEW10000026",
+      "title": "Beyond the Sea",
+      "artists": [
+        "Bobby Darin"
+      ],
+      "originalYear": 1959,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ee5e992a-acd9-448a-b2cd-42d41e0fb190"
+    },
+    {
+      "id": "glc-b0e0d2b0f4",
+      "spotifyTrackUri": "spotify:track:7y2O28y2I9rnmol5RjSG8D",
+      "isrc": "FRZ035300250",
+      "title": "Les amoureux des bancs publics",
+      "artists": [
+        "Georges Brassens"
+      ],
+      "originalYear": 1953,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ce1a55e4-d9cb-4592-985d-555f2c0c98e9"
+    },
+    {
+      "id": "glc-27757d577e",
+      "spotifyTrackUri": "spotify:track:5FYgwqjjq9kPCMj8yArfTr",
+      "isrc": "USFI85600056",
+      "title": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
+      "artists": [
+        "Miles Davis Quintet"
+      ],
+      "originalYear": 1957,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "77acd812-2f12-4b79-9d9d-41824a06a3b0"
+    },
+    {
+      "id": "glc-dadde3d1f9",
+      "spotifyTrackUri": "spotify:track:3aEJMh1cXKEjgh52claxQp",
+      "isrc": "USCA29800426",
+      "title": "I've Got You Under My Skin - Remastered 1998",
+      "artists": [
+        "Frank Sinatra"
+      ],
+      "originalYear": 1956,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a18540a1-caa5-433d-ae8a-6bc2f90eba95"
+    },
+    {
+      "id": "glc-cbabc1eda9",
+      "spotifyTrackUri": "spotify:track:1WvvmEowf7hiz5EnyAwtTj",
+      "isrc": "FRZ116500180",
+      "title": "La bohème",
+      "artists": [
+        "Charles Aznavour"
+      ],
+      "originalYear": 1965,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4391b801-a6cc-477d-a740-9c58b160ccf2"
+    },
+    {
+      "id": "glc-c9da19b847",
+      "spotifyTrackUri": "spotify:track:6kjDLNGtvnbYIXAMsc6iiu",
+      "isrc": "FRZ116700340",
+      "title": "Emmenez-moi",
+      "artists": [
+        "Charles Aznavour"
+      ],
+      "originalYear": 1967,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "08bfd5e6-9be7-4b23-8ac3-f98453c07874"
+    },
+    {
+      "id": "glc-2dbee28553",
+      "spotifyTrackUri": "spotify:track:66TDFKCZpMRfLcgJpa15xq",
+      "isrc": "FRZ116400470",
+      "title": "Hier encore",
+      "artists": [
+        "Charles Aznavour"
+      ],
+      "originalYear": 1964,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "51789916-c8a3-455f-9876-9e5710270a48"
+    },
+    {
+      "id": "glc-8e06c1f615",
+      "spotifyTrackUri": "spotify:track:63T7DJ1AFDD6Bn8VzG6JE8",
+      "isrc": "USA176610020",
+      "title": "Paint It, Black",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "originalYear": 1966,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c6ddba3b-a1a4-40a5-b686-b040ba536f24"
+    },
+    {
+      "id": "glc-614c594a7a",
+      "spotifyTrackUri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
+      "isrc": "USQX91100088",
+      "title": "Be My Baby",
+      "artists": [
+        "The Ronettes"
+      ],
+      "originalYear": 1964,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f3bac840-b32d-4a4d-90e1-19c17a9f3ec6"
+    },
+    {
+      "id": "glc-3b8b60c0b6",
+      "spotifyTrackUri": "spotify:track:5LxvwujISqiB8vpRYv887S",
+      "isrc": "USMO19400306",
+      "title": "I Want You Back",
+      "artists": [
+        "The Jackson 5"
+      ],
+      "originalYear": 1969,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6a16fd65-347c-4875-8725-1618064de6bd"
+    },
+    {
+      "id": "glc-0afc27d97b",
+      "spotifyTrackUri": "spotify:track:4BP3uh0hFLFRb5cjsgLqDh",
+      "isrc": "USC4R0817618",
+      "title": "Fortunate Son",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ],
+      "originalYear": 1969,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e5178630-952b-486e-bb67-559c62f1b3db"
+    },
+    {
+      "id": "glc-6748349819",
+      "spotifyTrackUri": "spotify:track:6Rqn2GFlmvmV4w9Ala0I1e",
+      "isrc": "USPR36500094",
+      "title": "Feeling Good",
+      "artists": [
+        "Nina Simone"
+      ],
+      "originalYear": 1965,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "96b8213c-48ab-435a-bd70-7f9d491fd107"
+    },
+    {
+      "id": "glc-f2e4180ac4",
+      "spotifyTrackUri": "spotify:track:1qRA5BS78u3gME0loMl9AA",
+      "isrc": "USEE10170607",
+      "title": "For What It's Worth",
+      "artists": [
+        "Buffalo Springfield"
+      ],
+      "originalYear": 1966,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "92e6eb38-2c99-4003-b9d7-a7e150647788"
+    },
+    {
+      "id": "glc-1f7f933328",
+      "spotifyTrackUri": "spotify:track:4pU5MiapjzzbqvXfKhcZT9",
+      "isrc": "FR45F6500020",
+      "title": "Aline",
+      "artists": [
+        "Christophe"
+      ],
+      "originalYear": 1965,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "48f235cf-43d6-4263-a9a4-6740b2de6586"
+    },
+    {
+      "id": "glc-f4a3f574c1",
+      "spotifyTrackUri": "spotify:track:3SdTKo2uVsxFblQjpScoHy",
+      "isrc": "USAT21402270",
+      "title": "Stand By Me",
+      "artists": [
+        "Ben E. King"
+      ],
+      "originalYear": 1961,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 1.0,
+      "yearSource": "manual",
+      "musicbrainzRecordingId": "587d91a2-da74-48da-849d-c4121aace66b"
+    },
+    {
+      "id": "glc-215f4b98b7",
+      "spotifyTrackUri": "spotify:track:6dGnYIeXmHdcikdzNNDMm2",
+      "isrc": "GBAYE0601696",
+      "title": "Here Comes The Sun - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "originalYear": 1969,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "440f60e8-0b25-4ec4-abb1-c6beec624ab0"
+    },
+    {
+      "id": "glc-f9af5cbd52",
+      "spotifyTrackUri": "spotify:track:7s25THrKz86DM225dOYwnr",
+      "isrc": "USAT20801240",
+      "title": "Respect",
+      "artists": [
+        "Aretha Franklin"
+      ],
+      "originalYear": 1967,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4855f9bc-1189-4915-aeba-1871cf6016c9"
+    },
+    {
+      "id": "glc-b54ec078c4",
+      "spotifyTrackUri": "spotify:track:6LryRmHPjkdq3hRNAdO9KB",
+      "isrc": "FRZ116300630",
+      "title": "For Me... Formidable",
+      "artists": [
+        "Charles Aznavour"
+      ],
+      "originalYear": 1963,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "742f5923-b3ff-4c9b-a1b4-201b49ab7749"
+    },
+    {
+      "id": "glc-f062364539",
+      "spotifyTrackUri": "spotify:track:72Z17vmmeQKAg8bptWvpVG",
+      "isrc": "USJT11500173",
+      "title": "Space Oddity - 2015 Remaster",
+      "artists": [
+        "David Bowie"
+      ],
+      "originalYear": 1969,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "84649f3b-6da6-4da6-8e33-a7a990b69516"
+    },
+    {
+      "id": "glc-09cc715678",
+      "spotifyTrackUri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx",
+      "isrc": "USMC16046323",
+      "title": "At Last",
+      "artists": [
+        "Etta James"
+      ],
+      "originalYear": 1960,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c81a809c-10d0-4fa7-9171-2ce8635ce87c"
+    },
+    {
+      "id": "glc-7718de7919",
+      "spotifyTrackUri": "spotify:track:2JiDi0qAXsPwhPqA2qaKGt",
+      "isrc": "GBUM71029604",
+      "title": "Bohemian Rhapsody",
+      "artists": [
+        "Queen"
+      ],
+      "originalYear": 1975,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b1a9c0e9-d987-4042-ae91-78d6a3267d69"
+    },
+    {
+      "id": "glc-7a37472935",
+      "spotifyTrackUri": "spotify:track:1QFh8OH1e78dGd3VyJZCAC",
+      "isrc": "GBALB7800001",
+      "title": "Boys Don't Cry",
+      "artists": [
+        "The Cure"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "fa1cf5a0-b942-46ed-9ca0-3773fb52cbb6"
+    },
+    {
+      "id": "glc-e5ef27e1d3",
+      "spotifyTrackUri": "spotify:track:2zYzyRzz6pRmhPzyfMEC8s",
+      "isrc": "AUAP07900028",
+      "title": "Highway to Hell",
+      "artists": [
+        "AC/DC"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5935ec91-8124-42ff-937f-f31a20ffe58f"
+    },
+    {
+      "id": "glc-902657afbc",
+      "spotifyTrackUri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
+      "isrc": "USWB11301111",
+      "title": "Dreams - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "originalYear": 1977,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "248cc9d1-97ea-493e-84d4-4c5ec718683b"
+    },
+    {
+      "id": "glc-e6fafc7a36",
+      "spotifyTrackUri": "spotify:track:40riOy7x9W7GXjyGp4pjAv",
+      "isrc": "USEE11300353",
+      "title": "Hotel California - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "originalYear": 1976,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "40bd0203-bc3f-4b15-9ab3-ceeb2ef35d7a"
+    },
+    {
+      "id": "glc-4a4951982c",
+      "spotifyTrackUri": "spotify:track:5e9TFTbltYBg2xThimr0rU",
+      "isrc": "USWB11301116",
+      "title": "The Chain - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "originalYear": 1977,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "cd06c484-9319-4376-a104-504871e19756"
+    },
+    {
+      "id": "glc-d669e1d47a",
+      "spotifyTrackUri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
+      "isrc": "USSM10011897",
+      "title": "Dream On",
+      "artists": [
+        "Aerosmith"
+      ],
+      "originalYear": 1973,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e135871f-0fed-4683-90e3-ebbe435fbe4e"
+    },
+    {
+      "id": "glc-a165e71517",
+      "spotifyTrackUri": "spotify:track:3vkQ5DAB1qQMYO4Mr9zJN6",
+      "isrc": "SEAYD7901120",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artists": [
+        "ABBA"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e1b7b099-abe6-4b7f-b06e-2c7cba7ffe7f"
+    },
+    {
+      "id": "glc-c40d4b3e15",
+      "spotifyTrackUri": "spotify:track:07q0QVgO56EorrSGHC48y3",
+      "isrc": "USPR39330175",
+      "title": "I Was Made For Lovin' You",
+      "artists": [
+        "KISS"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e8be59c6-b1fd-4d79-b64b-3fdf1640a7b7"
+    },
+    {
+      "id": "glc-5496cef8ca",
+      "spotifyTrackUri": "spotify:track:1k1Bqnv2R0uJXQN4u6LKYt",
+      "isrc": "USSM10000372",
+      "title": "Ain't No Sunshine",
+      "artists": [
+        "Bill Withers"
+      ],
+      "originalYear": 1971,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3442b706-8cef-4053-ab3e-dca0283c41dc"
+    },
+    {
+      "id": "glc-cabdd61a55",
+      "spotifyTrackUri": "spotify:track:3kXoKlD84c6OmIcOLfrfEs",
+      "isrc": "USSM17800845",
+      "title": "September",
+      "artists": [
+        "Earth, Wind & Fire"
+      ],
+      "originalYear": 1978,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "661d35c3-6ade-4367-af96-6c2898149906"
+    },
+    {
+      "id": "glc-fea1f9307f",
+      "spotifyTrackUri": "spotify:track:0VKxd6VnCZMv5uQCdC7qXf",
+      "isrc": "FRZ017800160",
+      "title": "Le chanteur",
+      "artists": [
+        "Daniel Balavoine"
+      ],
+      "originalYear": 1978,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e37e3b83-d3c7-4e08-8625-3c820655e2da"
+    },
+    {
+      "id": "glc-fea9cd046a",
+      "spotifyTrackUri": "spotify:track:7GVUmCP00eSsqc4tzj1sDD",
+      "isrc": "USSM17300653",
+      "title": "Come and Get Your Love - Single Version",
+      "artists": [
+        "Redbone"
+      ],
+      "originalYear": 1973,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "19743e71-e55d-4413-9450-0be53223675a"
+    },
+    {
+      "id": "glc-aaf43e2637",
+      "spotifyTrackUri": "spotify:track:54eZmuggBFJbV7k248bTTt",
+      "isrc": "USWB19901792",
+      "title": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "originalYear": 1971,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "90141c46-0f99-4435-a90a-af666d6599b7"
+    },
+    {
+      "id": "glc-15705aedf2",
+      "spotifyTrackUri": "spotify:track:0GjEhVFGZW8afUYGChu3Rr",
+      "isrc": "SEAYD7601020",
+      "title": "Dancing Queen",
+      "artists": [
+        "ABBA"
+      ],
+      "originalYear": 1976,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a502f559-f70c-4e0d-a5e5-e0cc319d0bd7"
+    },
+    {
+      "id": "glc-e2f66be311",
+      "spotifyTrackUri": "spotify:track:6ztstiyZL6FXzh4aG46ZPD",
+      "isrc": "USSM19922860",
+      "title": "Boogie Wonderland (with The Emotions)",
+      "artists": [
+        "Earth, Wind & Fire",
+        "The Emotions"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3028090e-cc36-4786-92bb-b3a940db4f7e"
+    },
+    {
+      "id": "glc-0fce0464c7",
+      "spotifyTrackUri": "spotify:track:5oxKrYimzs8AZp8lkoar6V",
+      "isrc": "FRZ087200211",
+      "title": "Une belle histoire",
+      "artists": [
+        "Michel Fugain & Le Big Bazar"
+      ],
+      "originalYear": 1972,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ae1f9956-7865-4475-9865-6a7649a54862"
+    },
+    {
+      "id": "glc-9c76d1ff90",
+      "spotifyTrackUri": "spotify:track:6HSXNV0b4M4cLJ7ljgVVeh",
+      "isrc": "USSM11304547",
+      "title": "Knockin' On Heaven's Door",
+      "artists": [
+        "Bob Dylan"
+      ],
+      "originalYear": 1973,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6fe0f731-6a6a-4985-a9bb-cd032ec3bc3a"
+    },
+    {
+      "id": "glc-c9b817834c",
+      "spotifyTrackUri": "spotify:track:6zeE5tKyr8Nu882DQhhSQI",
+      "isrc": "USSM10103196",
+      "title": "Dust in the Wind",
+      "artists": [
+        "Kansas"
+      ],
+      "originalYear": 1977,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e896d106-8794-4fb4-8e38-595588a6b72e"
+    },
+    {
+      "id": "glc-38f95e99a6",
+      "spotifyTrackUri": "spotify:track:5CQ30WqJwcep0pYcV4AMNc",
+      "isrc": "USAT21300959",
+      "title": "Stairway to Heaven - Remaster",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "originalYear": 1971,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ccfdd180-22e1-49b9-bd81-b5fcf2c6474e"
+    },
+    {
+      "id": "glc-0cdc7ae148",
+      "spotifyTrackUri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj",
+      "isrc": "USSM19902991",
+      "title": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "originalYear": 1982,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f980fc14-e29b-481d-ad3a-5ed9b4ab6340"
+    },
+    {
+      "id": "glc-195a06417a",
+      "spotifyTrackUri": "spotify:track:3BovdzfaX4jb5KFQwoPfAw",
+      "isrc": "USSM19902990",
+      "title": "Beat It",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "originalYear": 1982,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "de798de6-70fc-49f6-b580-339cd2e62052"
+    },
+    {
+      "id": "glc-ffe02e99fd",
+      "spotifyTrackUri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
+      "isrc": "GBAAM0201110",
+      "title": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "originalYear": 1983,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3e19df7a-3f9a-4d42-adbf-31867646f602"
+    },
+    {
+      "id": "glc-4164a0a9c8",
+      "spotifyTrackUri": "spotify:track:2UC5XnHA1Wn9FjQmbjNca9",
+      "isrc": "FRZ058200040",
+      "title": "L'aventurier",
+      "artists": [
+        "Indochine"
+      ],
+      "originalYear": 1982,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "02804644-68e5-4299-a5de-58d514c0f3db"
+    },
+    {
+      "id": "glc-bc052c0972",
+      "spotifyTrackUri": "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+      "isrc": "GBAAP0200005",
+      "title": "Smalltown Boy",
+      "artists": [
+        "Bronski Beat"
+      ],
+      "originalYear": 1984,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6333bcb0-375a-4d6a-b657-3616015453ba"
+    },
+    {
+      "id": "glc-2b13e676af",
+      "spotifyTrackUri": "spotify:track:2374M0fQpWi3dLnB54qaLX",
+      "isrc": "USSM19801941",
+      "title": "Africa",
+      "artists": [
+        "TOTO"
+      ],
+      "originalYear": 1982,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "55dc4892-b5ae-4bd7-9e98-2a0d4dd53cbc"
+    },
+    {
+      "id": "glc-d7e6cd9ed7",
+      "spotifyTrackUri": "spotify:track:1jDJFeK9x3OZboIAHsY9k2",
+      "isrc": "GBALX8300190",
+      "title": "I'm Still Standing",
+      "artists": [
+        "Elton John"
+      ],
+      "originalYear": 1983,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "50d83ff0-6ffd-4a92-b353-c104bbb45b9e"
+    },
+    {
+      "id": "glc-dd6ca039cb",
+      "spotifyTrackUri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD",
+      "isrc": "USRH11602150",
+      "title": "Another Day in Paradise - 2016 Remaster",
+      "artists": [
+        "Phil Collins"
+      ],
+      "originalYear": 1989,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4777b119-4892-4cfc-8def-b6ec76a2e0f6"
+    },
+    {
+      "id": "glc-9706e37539",
+      "spotifyTrackUri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj",
+      "isrc": "AUAP08000046",
+      "title": "Back In Black",
+      "artists": [
+        "AC/DC"
+      ],
+      "originalYear": 1980,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ef71afb6-5e51-41df-999b-9e7c7306063a"
+    },
+    {
+      "id": "glc-72419d69cd",
+      "spotifyTrackUri": "spotify:track:2y42xAsl6dfMeVXQgOYsUw",
+      "isrc": "USRE19900989",
+      "title": "Wicked Game",
+      "artists": [
+        "Chris Isaak"
+      ],
+      "originalYear": 1989,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "203ba510-daa7-4389-9ca8-0af3700ef784"
+    },
+    {
+      "id": "glc-c2b97b5ec5",
+      "spotifyTrackUri": "spotify:track:1KPuohcXPmJYQfdyg9zKmR",
+      "isrc": "GBUM71029605",
+      "title": "Another One Bites The Dust",
+      "artists": [
+        "Queen"
+      ],
+      "originalYear": 1980,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6b235773-16bd-4fc5-b57e-c966f9d1db6d"
+    },
+    {
+      "id": "glc-7f81a3b65f",
+      "spotifyTrackUri": "spotify:track:1PtQJZVZIdWIYdARpZRDFO",
+      "isrc": "GBCNR8500002",
+      "title": "Running Up That Hill (A Deal With God)",
+      "artists": [
+        "Kate Bush"
+      ],
+      "originalYear": 1985,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6029d549-5858-4936-9156-b90770d2ae92"
+    },
+    {
+      "id": "glc-06bdea6f63",
+      "spotifyTrackUri": "spotify:track:2nrG5UtAcqXbYttu7MXP1p",
+      "isrc": "GBUM71029622",
+      "title": "Under Pressure (feat. David Bowie)",
+      "artists": [
+        "Queen",
+        "David Bowie"
+      ],
+      "originalYear": 1981,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "32c7e292-14f1-4080-bddf-ef852e0a4c59"
+    },
+    {
+      "id": "glc-735fea5ecd",
+      "spotifyTrackUri": "spotify:track:4S1VYqwfkLit9mKVY3MXoo",
+      "isrc": "DEA629260150",
+      "title": "Forever Young",
+      "artists": [
+        "Alphaville"
+      ],
+      "originalYear": 1984,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "37d2fc01-4933-481b-b6e4-9039585d22d3"
+    },
+    {
+      "id": "glc-a93e54c438",
+      "spotifyTrackUri": "spotify:track:2KzUa9x2TNzHVsx4sVuHsx",
+      "isrc": "FRG951300060",
+      "title": "Encore et encore - Remastered",
+      "artists": [
+        "Francis Cabrel"
+      ],
+      "originalYear": 1985,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "37c1990e-817b-42a0-a6c0-a90b61cda99a"
+    },
+    {
+      "id": "glc-04818ea508",
+      "spotifyTrackUri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb",
+      "isrc": "USAT21502120",
+      "title": "In the Air Tonight - 2015 Remaster",
+      "artists": [
+        "Phil Collins"
+      ],
+      "originalYear": 1981,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "03b5bad2-47c5-45c3-ad34-53135f3ec4cc"
+    },
+    {
+      "id": "glc-f669f2a887",
+      "spotifyTrackUri": "spotify:track:2v7ywbUzCgcVohHaKUcacV",
+      "isrc": "USWB10002775",
+      "title": "Like a Prayer",
+      "artists": [
+        "Madonna"
+      ],
+      "originalYear": 1989,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "bfbe89a4-5178-4f12-b258-2d8718881094"
+    },
+    {
+      "id": "glc-0c2899d342",
+      "spotifyTrackUri": "spotify:track:4CeeEOM32jQcH3eN9Q2dGj",
+      "isrc": "USGF19942501",
+      "title": "Smells Like Teen Spirit",
+      "artists": [
+        "Nirvana"
+      ],
+      "originalYear": 1991,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5fb524f1-8cc8-4c04-a921-e34c0a911ea7"
+    },
+    {
+      "id": "glc-a3b3a77f91",
+      "spotifyTrackUri": "spotify:track:2dMLZBAf1mnrtviUHiwd7J",
+      "isrc": "CAC229500010",
+      "title": "J'irai où tu iras (with Jean-Jacques Goldman)",
+      "artists": [
+        "Céline Dion",
+        "Jean-Jacques Goldman"
+      ],
+      "originalYear": 1995,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "fdeed536-9f82-438e-a554-7181345e47ad"
+    },
+    {
+      "id": "glc-8fe82d3a13",
+      "spotifyTrackUri": "spotify:track:6mYSphiU3Qg07g37bZlE4c",
+      "isrc": "CAC229500002",
+      "title": "Pour que tu m'aimes encore",
+      "artists": [
+        "Céline Dion"
+      ],
+      "originalYear": 1995,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8ca3917d-3dfd-4603-8f41-d4f0c1bbf877"
+    },
+    {
+      "id": "glc-e41c2d8c4c",
+      "spotifyTrackUri": "spotify:track:31AOj9sFz2gM0O3hMARRBx",
+      "isrc": "USC4R1605373",
+      "title": "Losing My Religion",
+      "artists": [
+        "R.E.M."
+      ],
+      "originalYear": 1991,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d4e0a590-e461-499a-8f62-b595b6c65ada"
+    },
+    {
+      "id": "glc-8a715b0707",
+      "spotifyTrackUri": "spotify:track:3wuCCNCnBhJlwkIJTBZFiv",
+      "isrc": "USSM19500629",
+      "title": "They Don't Care About Us",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "originalYear": 1995,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4d76ab8b-a03b-4fe8-ba4c-6313829b7f32"
+    },
+    {
+      "id": "glc-38dda18ec2",
+      "spotifyTrackUri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa",
+      "isrc": "USJI19810404",
+      "title": "...Baby One More Time",
+      "artists": [
+        "Britney Spears"
+      ],
+      "originalYear": 1998,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9aa77fa3-1a7d-4ff9-a5ce-8c3dc072fa52"
+    },
+    {
+      "id": "glc-6b6564c1f1",
+      "spotifyTrackUri": "spotify:track:06T13g0Hh00zWwMjtpqIKU",
+      "isrc": "CAC229800096",
+      "title": "On ne change pas",
+      "artists": [
+        "Céline Dion"
+      ],
+      "originalYear": 1998,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ea4530f4-d75a-462a-ae29-2abcabe9bd4a"
+    },
+    {
+      "id": "glc-1e81b531fd",
+      "spotifyTrackUri": "spotify:track:57bgtoPSgt236HzfBOd8kj",
+      "isrc": "AUAP09000014",
+      "title": "Thunderstruck",
+      "artists": [
+        "AC/DC"
+      ],
+      "originalYear": 1990,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6d19aaa7-1eb5-4488-a54d-fe07d0621a7f"
+    },
+    {
+      "id": "glc-4f1f0d0cf4",
+      "spotifyTrackUri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "isrc": "USCA29300105",
+      "title": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "originalYear": 1993,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "2fb9bc6b-d4da-497e-ad3f-fabf12fe72cf"
+    },
+    {
+      "id": "glc-4e667625d6",
+      "spotifyTrackUri": "spotify:track:7ygpwy2qP3NbrxVkHvUhXY",
+      "isrc": "GBQCP1400109",
+      "title": "Wonderwall - Remastered",
+      "artists": [
+        "Oasis"
+      ],
+      "originalYear": 1995,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "580f4553-e29a-4d19-989c-1b097b76de48"
+    },
+    {
+      "id": "glc-04d0070f78",
+      "spotifyTrackUri": "spotify:track:2RsAajgo0g7bMCHxwH3Sk0",
+      "isrc": "USGF19942503",
+      "title": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "originalYear": 1991,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "70ac6733-068f-4613-b06b-bea17cfbcc30"
+    },
+    {
+      "id": "glc-21ad6759ce",
+      "spotifyTrackUri": "spotify:track:6i1M5cvGUFUpECfs8lIifM",
+      "isrc": "CAC229500008",
+      "title": "Destin",
+      "artists": [
+        "Céline Dion"
+      ],
+      "originalYear": 1995,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a386a5ff-0c2e-4949-877e-332fe7e6c885"
+    },
+    {
+      "id": "glc-279f3c55df",
+      "spotifyTrackUri": "spotify:track:4EchqUKQ3qAQuRNKmeIpnf",
+      "isrc": "USSM19804363",
+      "title": "The Kids Aren't Alright",
+      "artists": [
+        "The Offspring"
+      ],
+      "originalYear": 1998,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0b6cea69-0935-415b-8d9c-981b3baef82d"
+    },
+    {
+      "id": "glc-7e17916426",
+      "spotifyTrackUri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0",
+      "isrc": "USWB19901576",
+      "title": "Under the Bridge",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "originalYear": 1991,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "10d1062a-7275-458f-ad0d-906eeaa22c57"
+    },
+    {
+      "id": "glc-24265bd9be",
+      "spotifyTrackUri": "spotify:track:3d0WouFnFmr0K3kjeza3fF",
+      "isrc": "USSM10600677",
+      "title": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artists": [
+        "Shakira",
+        "Wyclef Jean"
+      ],
+      "originalYear": 2005,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "2c0b2787-307c-49e9-b2e9-5b1ddd6e713e"
+    },
+    {
+      "id": "glc-9720b7e85d",
+      "spotifyTrackUri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "isrc": "GBAYE0800265",
+      "title": "Viva La Vida",
+      "artists": [
+        "Coldplay"
+      ],
+      "originalYear": 2008,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "307ce9da-5690-4e21-ab71-9d12ea106e52"
+    },
+    {
+      "id": "glc-ab40f18cf4",
+      "spotifyTrackUri": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
+      "isrc": "USWB10002407",
+      "title": "In the End",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9d70086c-5d7a-4e7f-b1ed-c53c4b11310f"
+    },
+    {
+      "id": "glc-6b8427a2ad",
+      "spotifyTrackUri": "spotify:track:5nEdwtSv0qqeE0l4o1lR4q",
+      "isrc": "USAT20615165",
+      "title": "(When You Gonna) Give It Up to Me - Radio Version",
+      "artists": [
+        "Sean Paul",
+        "Keyshia Cole"
+      ],
+      "originalYear": 2006,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ffbc7114-327e-4f43-ad47-192ff054d6b7"
+    },
+    {
+      "id": "glc-ce12467400",
+      "spotifyTrackUri": "spotify:track:3GpbwCm3YxiWDvy29Uo3vP",
+      "isrc": "USAT20900156",
+      "title": "Right Round",
+      "artists": [
+        "Flo Rida",
+        "Kesha"
+      ],
+      "originalYear": 2009,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e7ea6192-8ffe-4734-a913-dc5ce6c7122c"
+    },
+    {
+      "id": "glc-986f82861b",
+      "spotifyTrackUri": "spotify:track:0ByMNEPAPpOR5H69DVrTNy",
+      "isrc": "USUM70734700",
+      "title": "Don't Stop The Music",
+      "artists": [
+        "Rihanna"
+      ],
+      "originalYear": 2007,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4c0566be-d3d9-42b2-964d-cf349972123b"
+    },
+    {
+      "id": "glc-8c5fd5e039",
+      "spotifyTrackUri": "spotify:track:4kLLWz7srcuLKA7Et40PQR",
+      "isrc": "USUM70965169",
+      "title": "I Gotta Feeling",
+      "artists": [
+        "Black Eyed Peas"
+      ],
+      "originalYear": 2009,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "abcb30ab-58a7-4f63-9699-952b9b422fc2"
+    },
+    {
+      "id": "glc-960753c6da",
+      "spotifyTrackUri": "spotify:track:3zEN0ii6s4DHHBpnTp3RP7",
+      "isrc": "AUEI10800041",
+      "title": "We Are The People",
+      "artists": [
+        "Empire Of The Sun"
+      ],
+      "originalYear": 2008,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "35b424ed-5524-45dc-a463-679374a53620"
+    },
+    {
+      "id": "glc-4ffccc4f67",
+      "spotifyTrackUri": "spotify:track:1vxw6aYJls2oq3gW0DujAo",
+      "isrc": "GBAHT0600202",
+      "title": "Crazy",
+      "artists": [
+        "Gnarls Barkley",
+        "CeeLo Green",
+        "Danger Mouse"
+      ],
+      "originalYear": 2006,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "aa6c54d3-226b-47d6-85b9-2adf3e22ebaf"
+    },
+    {
+      "id": "glc-8d15c278ce",
+      "spotifyTrackUri": "spotify:track:0LZ90308GB1Tp05STjabeC",
+      "isrc": "FR29U0300003",
+      "title": "Gravé dans la roche",
+      "artists": [
+        "SNIPER"
+      ],
+      "originalYear": 2003,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "cf6cfaed-a3b1-4365-ba2b-e273c7f71af4"
+    },
+    {
+      "id": "glc-d4eb3727b4",
+      "spotifyTrackUri": "spotify:track:49FYlytm3dAAraYgpoJZux",
+      "isrc": "USUM70736771",
+      "title": "Umbrella",
+      "artists": [
+        "Rihanna",
+        "JAŸ-Z"
+      ],
+      "originalYear": 2007,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0b4b1b0c-e057-4d8d-9a47-12a97ff6fb3d"
+    },
+    {
+      "id": "glc-189a40ddec",
+      "spotifyTrackUri": "spotify:track:0gmbgwZ8iqyMPmXefof8Yf",
+      "isrc": "NLA320119533",
+      "title": "How You Remind Me",
+      "artists": [
+        "Nickelback"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5d789be8-fedf-4ddb-a429-0977731fb9ab"
+    },
+    {
+      "id": "glc-a82acac2b0",
+      "spotifyTrackUri": "spotify:track:6k8ynYPD7SjWpDShcImkz1",
+      "isrc": "FRZ080802271",
+      "title": "Du ferme",
+      "artists": [
+        "La Fouine"
+      ],
+      "originalYear": 2009,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d308c94e-d041-4a71-991a-0e4f640a6ddc"
+    },
+    {
+      "id": "glc-55809252a5",
+      "spotifyTrackUri": "spotify:track:7eJdx83TiKsVqAzLFBelMO",
+      "isrc": "FRZ610200005",
+      "title": "Manhattan-Kaboul",
+      "artists": [
+        "Renaud",
+        "Axelle Red"
+      ],
+      "originalYear": 2002,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "2bb1df50-e2a1-4230-9c67-8fe855e01aa5"
+    },
+    {
+      "id": "glc-d110a5f10d",
+      "spotifyTrackUri": "spotify:track:0BxE4FqsDD1Ot4YuBXwAPp",
+      "isrc": "GBCEL0700074",
+      "title": "505",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "originalYear": 2007,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8dee0224-bcf9-4023-a805-9562bafd3450"
+    },
+    {
+      "id": "glc-f8ca324f1d",
+      "spotifyTrackUri": "spotify:track:0Jh6iWjna1wk5le0Ahn7No",
+      "isrc": "FR9W11823251",
+      "title": "La vie qu'on mène",
+      "artists": [
+        "Ninho"
+      ],
+      "originalYear": 2019,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "312ed35c-1332-4df9-9200-bbc62c3f1af7"
+    },
+    {
+      "id": "glc-6d4ef6efdb",
+      "spotifyTrackUri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "isrc": "USQX91802457",
+      "title": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "originalYear": 2018,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5b2e8994-f2cb-48c3-b5d3-e7d4351f7a9e"
+    },
+    {
+      "id": "glc-53c862732d",
+      "spotifyTrackUri": "spotify:track:0SKNkEMV313mE6oYsgVCgm",
+      "isrc": "FR2MX1300150",
+      "title": "J'oublie tout",
+      "artists": [
+        "Jul"
+      ],
+      "originalYear": 2014,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5324576f-ba4d-4470-be05-eee680237191"
+    },
+    {
+      "id": "glc-5426164c28",
+      "spotifyTrackUri": "spotify:track:22skzmqfdWrjJylampe0kt",
+      "isrc": "GMM881200002",
+      "title": "Can't Hold Us (feat. Ray Dalton)",
+      "artists": [
+        "Macklemore",
+        "Ryan Lewis",
+        "Macklemore & Ryan Lewis",
+        "Ray Dalton"
+      ],
+      "originalYear": 2011,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "25a2c3cc-0383-461a-a813-d22318df4b0f"
+    },
+    {
+      "id": "glc-a631b35187",
+      "spotifyTrackUri": "spotify:track:5I2FIj9EDp0Fz32CJ9lZNF",
+      "isrc": "FR2MX1300200",
+      "title": "Tu la love",
+      "artists": [
+        "Jul"
+      ],
+      "originalYear": 2014,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "611a137d-2172-4b0e-a9e6-425809e47fdc"
+    },
+    {
+      "id": "glc-ed2a54d4aa",
+      "spotifyTrackUri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
+      "isrc": "USSM11300080",
+      "title": "Sweater Weather",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "originalYear": 2012,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4e9f954e-df92-40d9-b68d-8abcd4eae4da"
+    },
+    {
+      "id": "glc-569fa10dc3",
+      "spotifyTrackUri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
+      "isrc": "AULI01385760",
+      "title": "Riptide",
+      "artists": [
+        "Vance Joy"
+      ],
+      "originalYear": 2013,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8c3f4879-5477-47f1-92f3-fe0a54b22786"
+    },
+    {
+      "id": "glc-7f6f1058e4",
+      "spotifyTrackUri": "spotify:track:0kosUz0jePvjiz4ctmR6wL",
+      "isrc": "USQX92602558",
+      "title": "Dai Dai",
+      "artists": [
+        "Shakira",
+        "Burna Boy"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b0c85223-6931-405c-bc0e-87ad2332b837"
+    },
+    {
+      "id": "glc-8d6db46471",
+      "spotifyTrackUri": "spotify:track:0at2jRhqZ9lhzEILevQxkZ",
+      "isrc": "FXR792600001",
+      "title": "Sexy Nana",
+      "artists": [
+        "Aya Nakamura",
+        "La Rvfleuze"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f4b37cb6-631e-444a-98b6-79c3a7ffc71f"
+    },
+    {
+      "id": "glc-8ac10b64a5",
+      "spotifyTrackUri": "spotify:track:5Y8C6KjzBRKvcT3Aln1Bc4",
+      "isrc": "FR9W12550711",
+      "title": "melodrama",
+      "artists": [
+        "disiz",
+        "Theodora"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "1de5e167-2ddd-491d-9ef5-a98d627a8049"
+    },
+    {
+      "id": "glc-14cb9dee63",
+      "spotifyTrackUri": "spotify:track:1wNmBZcYBdIf3Dp6P96Vn8",
+      "isrc": "FRX282661554",
+      "title": "VIVE LA MONNAIE",
+      "artists": [
+        "GIMS",
+        "Mauvais djo"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "24cdc60f-50a4-4f44-8972-b8d026ef249d"
+    },
+    {
+      "id": "glc-75475892f4",
+      "spotifyTrackUri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "isrc": "QZHN52696246",
+      "title": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0a520ae3-452f-43fe-807d-2185cb352995"
+    },
+    {
+      "id": "glc-b8e659d74b",
+      "spotifyTrackUri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "isrc": "QMFMF2447055",
+      "title": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c5eee37f-9f97-48c9-b2e9-ffd20a6bb06e"
+    },
+    {
+      "id": "glc-c6bddba0a8",
+      "spotifyTrackUri": "spotify:track:6c2ZcdXHkEFdsNArdJXrHX",
+      "isrc": "QZTLA2694864",
+      "title": "Mi Chico",
+      "artists": [
+        "DJ Goja",
+        "Jason Derulo",
+        "Melody"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f6157623-6caa-42c3-8798-0ac0255a9a10"
+    },
+    {
+      "id": "glc-1ca74eedff",
+      "spotifyTrackUri": "spotify:track:2X485T9Z5Ly0xyaghN73ed",
+      "isrc": "AUUM71500292",
+      "title": "Let It Happen",
+      "artists": [
+        "Tame Impala"
+      ],
+      "originalYear": 2015,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b85f7f6d-813a-4ebc-8a1d-5998ab02be9a"
+    },
+    {
+      "id": "glc-276f997bbf",
+      "spotifyTrackUri": "spotify:track:18lR4BzEs7e3qzc0KVkTpU",
+      "isrc": "USWB10700721",
+      "title": "What I've Done",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2007,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "50347f42-2a40-4df6-b358-07f994af7a3f"
+    },
+    {
+      "id": "glc-7b6c1aa2bc",
+      "spotifyTrackUri": "spotify:track:2aibwv5hGXSgw7Yru8IYTO",
+      "isrc": "USWB10601591",
+      "title": "Snow (Hey Oh)",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "originalYear": 2006,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ea42a36a-ced7-4326-a7d3-c91456b49d0b"
+    },
+    {
+      "id": "glc-a4d69a5d80",
+      "spotifyTrackUri": "spotify:track:5hM5arv9KDbCHS0k9uqwjr",
+      "isrc": "AUUM71900956",
+      "title": "Borderline",
+      "artists": [
+        "Tame Impala"
+      ],
+      "originalYear": 2020,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6c337c9d-8637-4720-9af2-d914019149b8"
+    },
+    {
+      "id": "glc-4537c3a9be",
+      "spotifyTrackUri": "spotify:track:1VNWaY3uNfoeWqb5U8x2QX",
+      "isrc": "USSM10505340",
+      "title": "Lonely Day",
+      "artists": [
+        "System Of A Down"
+      ],
+      "originalYear": 2005,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0aff4799-849f-4f83-84f4-22cabbba2378"
+    },
+    {
+      "id": "glc-4318df1701",
+      "spotifyTrackUri": "spotify:track:64BbK9SFKH2jk86U3dGj2P",
+      "isrc": "USWB19900693",
+      "title": "Otherside",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "originalYear": 1999,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "7a3e8796-a0b3-4999-b268-4e2d47912e3c"
+    },
+    {
+      "id": "glc-7598b403e1",
+      "spotifyTrackUri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+      "isrc": "USRC11902726",
+      "title": "The Adults Are Talking",
+      "artists": [
+        "The Strokes"
+      ],
+      "originalYear": 2020,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "57b269a0-99eb-4b31-a4d4-ff311f965a3e"
+    },
+    {
+      "id": "glc-31f415ee6f",
+      "spotifyTrackUri": "spotify:track:1qPbGZqppFwLwcBC1JQ6Vr",
+      "isrc": "GBAAW9500189",
+      "title": "Wonderwall",
+      "artists": [
+        "Oasis"
+      ],
+      "originalYear": 1995,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "580f4553-e29a-4d19-989c-1b097b76de48"
+    },
+    {
+      "id": "glc-c3a76cfff2",
+      "spotifyTrackUri": "spotify:track:3dPQuX8Gs42Y7b454ybpMR",
+      "isrc": "USVT10300001",
+      "title": "Seven Nation Army",
+      "artists": [
+        "The White Stripes"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "24cc8311-98fd-423a-bed1-97728f5eabc5"
+    },
+    {
+      "id": "glc-c5a1648bb5",
+      "spotifyTrackUri": "spotify:track:3fjmSxt0PskST13CSdBUFx",
+      "isrc": "USWB10300376",
+      "title": "Somewhere I Belong",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d342506d-8f07-4ed7-a06f-cfebd44be1dc"
+    },
+    {
+      "id": "glc-75e73ffc4e",
+      "spotifyTrackUri": "spotify:track:57iDDD9N9tTWe75x6qhStw",
+      "isrc": "GBUM71601816",
+      "title": "Bitter Sweet Symphony - Remastered 2016",
+      "artists": [
+        "The Verve"
+      ],
+      "originalYear": 1997,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8b6d9029-1990-4660-bd57-24b5bc0fb626"
+    },
+    {
+      "id": "glc-e9a17eb745",
+      "spotifyTrackUri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
+      "isrc": "USSM10601178",
+      "title": "How to Save a Life",
+      "artists": [
+        "The Fray"
+      ],
+      "originalYear": 2005,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5c5cae19-b26c-4542-907a-9c15b51ab6a6"
+    },
+    {
+      "id": "glc-94d60a3236",
+      "spotifyTrackUri": "spotify:track:4VqPOruhp5EdPBeR92t6lQ",
+      "isrc": "GBAHT0900320",
+      "title": "Uprising",
+      "artists": [
+        "Muse"
+      ],
+      "originalYear": 2009,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0ca789c6-3618-48f1-8ee0-977f70a621d6"
+    },
+    {
+      "id": "glc-c6311cbd2b",
+      "spotifyTrackUri": "spotify:track:4Yf5bqU3NK4kNOypcrLYwU",
+      "isrc": "USWB10300468",
+      "title": "Faint",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "54a3c21c-5395-44a2-b90b-b7fab8095c20"
+    },
+    {
+      "id": "glc-c63956fc7c",
+      "spotifyTrackUri": "spotify:track:6VZB0ttlqGjpGMAcaomXh9",
+      "isrc": "CAC220000100",
+      "title": "Sous le vent",
+      "artists": [
+        "Garou",
+        "Céline Dion"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "260019e0-ec45-44d4-9bcf-3146a1a5021b"
+    },
+    {
+      "id": "glc-953a20607f",
+      "spotifyTrackUri": "spotify:track:6xuxkfM6waS1sCubmjJtCl",
+      "isrc": "FRZ087300030",
+      "title": "Chanson populaire (Ça s'en va et ça revient)",
+      "artists": [
+        "Claude François"
+      ],
+      "originalYear": 1973,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "930db2b3-560e-46a3-b33b-3fdca03ba75c"
+    },
+    {
+      "id": "glc-cb818717ae",
+      "spotifyTrackUri": "spotify:track:51BbACodhBnd9lBs2TI0YT",
+      "isrc": "FRZ041200384",
+      "title": "Résiste - Remasterisé en 2004",
+      "artists": [
+        "France Gall"
+      ],
+      "originalYear": 1981,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5736f8b4-e1fe-4ec9-987b-85dc6bcbd7d4"
+    },
+    {
+      "id": "glc-2083b8f531",
+      "spotifyTrackUri": "spotify:track:12zakSjWxrohomLLgxTkCR",
+      "isrc": "FR35T1000062",
+      "title": "Chanson sur une drôle de vie",
+      "artists": [
+        "Géraldine Nakache",
+        "Leïla Bekhti"
+      ],
+      "originalYear": 2010,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "09e620cc-e400-4122-81bf-d7d4e51f7759"
+    },
+    {
+      "id": "glc-0af787a9b2",
+      "spotifyTrackUri": "spotify:track:2iTugZ4SlHydYkLTiTUzBR",
+      "isrc": "FRZ027900630",
+      "title": "Chanson pour Pierrot",
+      "artists": [
+        "Renaud"
+      ],
+      "originalYear": 1979,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "62256764-3e7f-498f-99bf-71b8096a9e65"
+    },
+    {
+      "id": "glc-29eca3da1f",
+      "spotifyTrackUri": "spotify:track:4QPVhcAfVufCbhAvmJrfsS",
+      "isrc": "FRZ167501790",
+      "title": "17 ans",
+      "artists": [
+        "Claude François"
+      ],
+      "originalYear": 1975,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d4764259-da16-48cd-96eb-1b0cdd305219"
+    },
+    {
+      "id": "glc-ffb440f615",
+      "spotifyTrackUri": "spotify:track:0NnP76tSXbRPQeFwVNpYhH",
+      "isrc": "FRZ167501800",
+      "title": "Une chanson française",
+      "artists": [
+        "Claude François"
+      ],
+      "originalYear": 1975,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c7705511-2d91-4c54-9573-a26f0dd54384"
+    },
+    {
+      "id": "glc-200c7ce715",
+      "spotifyTrackUri": "spotify:track:0ZpsflpEO5MgMwzxBsOqfx",
+      "isrc": "FRZ037700130",
+      "title": "Ex-fan des sixties",
+      "artists": [
+        "Jane Birkin"
+      ],
+      "originalYear": 1978,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a0fe1b62-a2c8-4043-812d-43cdc8f83709"
+    },
+    {
+      "id": "glc-cda6f59b2d",
+      "spotifyTrackUri": "spotify:track:4CifWR0QjIlYS84NWyK33h",
+      "isrc": "FRZ110901500",
+      "title": "L'honneur d'un Peuple",
+      "artists": [
+        "Diam's"
+      ],
+      "originalYear": 2009,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b6c613b2-dddf-402c-ab17-519b17436e1e"
+    },
+    {
+      "id": "glc-b402c7f8b6",
+      "spotifyTrackUri": "spotify:track:2HaGvUVtpPkCSbBOisINcY",
+      "isrc": "FRZ037600750",
+      "title": "Variations sur Marilou",
+      "artists": [
+        "Serge Gainsbourg"
+      ],
+      "originalYear": 1976,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e758da66-4ffa-464e-ad2c-e494411f345b"
+    },
+    {
+      "id": "glc-49197425cf",
+      "spotifyTrackUri": "spotify:track:4CeHrAL1fGUi94RIk3Z2H2",
+      "isrc": "FRX086700001",
+      "title": "7 heures du matin",
+      "artists": [
+        "Jacqueline Taieb"
+      ],
+      "originalYear": 1967,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "803c2fae-51cd-4643-ab7e-c955c04b87cf"
+    },
+    {
+      "id": "glc-c7e8d9b308",
+      "spotifyTrackUri": "spotify:track:359TSLfG30WauDV96x2PxJ",
+      "isrc": "FRZ116000960",
+      "title": "Je m'voyais déjà",
+      "artists": [
+        "Charles Aznavour"
+      ],
+      "originalYear": 1961,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "205dc778-32c5-4244-8d9a-be4081c1f05e"
+    },
+    {
+      "id": "glc-696cb5da3b",
+      "spotifyTrackUri": "spotify:track:39h94e3KXQG9iFUV70Y4Hs",
+      "isrc": "FRZ030502760",
+      "title": "Variété française",
+      "artists": [
+        "Jeremy Chatelain"
+      ],
+      "originalYear": 2006,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "dca4afe6-0d67-44db-9e83-563e0ed442f4"
+    },
+    {
+      "id": "glc-0dbe1e425f",
+      "spotifyTrackUri": "spotify:track:2bvK6q5BmQptntw9rxzP5E",
+      "isrc": "FR6V80818802",
+      "title": "Emmanuelle",
+      "artists": [
+        "François Valéry"
+      ],
+      "originalYear": 1980,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "44058d63-8b06-4a90-891e-341dc9e78f6d"
+    },
+    {
+      "id": "glc-83fa668ffe",
+      "spotifyTrackUri": "spotify:track:6UKMMpkiRognzErj0gk1DO",
+      "isrc": "FRZ168800020",
+      "title": "Aviateur",
+      "artists": [
+        "Véronique Jannot"
+      ],
+      "originalYear": 1988,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "761b3eff-93e8-4cbe-8a40-b06c8b99c33a"
+    },
+    {
+      "id": "glc-706236163c",
+      "spotifyTrackUri": "spotify:track:4UZiZheOTdt9JYIPuRzVSz",
+      "isrc": "FRZ088300147",
+      "title": "Le rital",
+      "artists": [
+        "Claude Barzotti"
+      ],
+      "originalYear": 1983,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "19a88854-9e9a-4b6f-ac8d-58743eb8dd52"
+    },
+    {
+      "id": "glc-b1c0396c8a",
+      "spotifyTrackUri": "spotify:track:6QnXl8FKU3utPpyACyFD99",
+      "isrc": "FRZ808980010",
+      "title": "Mirador",
+      "artists": [
+        "Johnny Hallyday"
+      ],
+      "originalYear": 1989,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8aac800c-c92f-49d8-87f7-472483146a44"
+    },
+    {
+      "id": "glc-e6d1dcbe65",
+      "spotifyTrackUri": "spotify:track:7sJBx5VyGxbLlhwloGBmyP",
+      "isrc": "FRW570700020",
+      "title": "Liberta",
+      "artists": [
+        "Pep's"
+      ],
+      "originalYear": 2008,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "de487cec-7fcd-4610-ac28-98b2ae49732a"
+    },
+    {
+      "id": "glc-7eba96cafc",
+      "spotifyTrackUri": "spotify:track:7JGmpugbdiVWskY1S3EmTY",
+      "isrc": "FRZ019800920",
+      "title": "Tomber la chemise",
+      "artists": [
+        "Zebda"
+      ],
+      "originalYear": 1998,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "af5b6b68-b954-495c-a271-a7752ac2219c"
+    },
+    {
+      "id": "glc-b2fee24bc1",
+      "spotifyTrackUri": "spotify:track:5GUYWrfs8DTXbXBa7W6kwh",
+      "isrc": "FRZ088500070",
+      "title": "Famille",
+      "artists": [
+        "Jean-Jacques Goldman"
+      ],
+      "originalYear": 1985,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ad9a7284-7ac6-483a-8bb5-ce4043ea4516"
+    },
+    {
+      "id": "glc-b4bc17811f",
+      "spotifyTrackUri": "spotify:track:0G4cF37deqbR5aBlRyo8oC",
+      "isrc": "FRZ189800171",
+      "title": "Tombé pour la France",
+      "artists": [
+        "Étienne Daho"
+      ],
+      "originalYear": 1985,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0cf81f04-26f2-4573-9469-646808905f15"
+    },
+    {
+      "id": "glc-e94adbe250",
+      "spotifyTrackUri": "spotify:track:6RWjshevQtZvAoHs5DPrPZ",
+      "isrc": "FRZ020302180",
+      "title": "Tu seras",
+      "artists": [
+        "Emma Daumas"
+      ],
+      "originalYear": 2003,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d8500f7c-e299-4801-93a1-d7aabfa94e9e"
+    },
+    {
+      "id": "glc-62e133f4b4",
+      "spotifyTrackUri": "spotify:track:6DJizO1nabLYUaiMbiHxPi",
+      "isrc": "FR42W0601165",
+      "title": "Franc jeu",
+      "artists": [
+        "Medhy Custos"
+      ],
+      "originalYear": 2006,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "39005683-8d89-4c47-bf21-c1f44f4e5c1a"
+    },
+    {
+      "id": "glc-367b14a1c3",
+      "spotifyTrackUri": "spotify:track:2qsjKx635nmNfZbjknAbLm",
+      "isrc": "FR0W80900017",
+      "title": "A-France",
+      "artists": [
+        "Gaël Faye"
+      ],
+      "originalYear": 2013,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6ff737ed-139c-49d8-8da5-e63c2aa806dd"
+    },
+    {
+      "id": "glc-988ce7fcb0",
+      "spotifyTrackUri": "spotify:track:5YMTSBZWTq0UmA1hvbYUc1",
+      "isrc": "FRZ010102270",
+      "title": "Françafrique",
+      "artists": [
+        "Tiken Jah Fakoly"
+      ],
+      "originalYear": 2002,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "01ec80db-d990-4962-8c13-aa4ca7270d34"
+    },
+    {
+      "id": "glc-4fc1ba83c4",
+      "spotifyTrackUri": "spotify:track:1FqAPsfcYbdmebCkSFaa9K",
+      "isrc": "FR04F8500260",
+      "title": "En l'an 2001",
+      "artists": [
+        "Pierre Bachelet"
+      ],
+      "originalYear": 1985,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "1427fd38-0ba6-4246-93e2-62697f1e19ca"
+    },
+    {
+      "id": "glc-802658be0c",
+      "spotifyTrackUri": "spotify:track:32lASd0XBK0hy7BZ1gmALa",
+      "isrc": "FR9P40700017",
+      "title": "Crêpes au froment (feat. Finistere Amer)",
+      "artists": [
+        "Fatal Bazooka",
+        "Finistere Amer"
+      ],
+      "originalYear": 2007,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "1592c351-58df-4b48-93ba-b7679e58d392"
+    },
+    {
+      "id": "glc-d348c56485",
+      "spotifyTrackUri": "spotify:track:6E2MzYJD6kES5aTtMkRvze",
+      "isrc": "FRZ110100566",
+      "title": "Le prédateur isolé",
+      "artists": [
+        "La Rumeur"
+      ],
+      "originalYear": 2002,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9b64b0b2-4e06-42a5-8f5b-4ee6e1a7f87d"
+    }
+  ]
+}

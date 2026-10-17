@@ -1,8 +1,8 @@
 {
   "id": "generaliste",
   "name": "Pack généraliste",
-  "version": 1,
-  "checksum": "c054293db31f9b93eb858f306350747710e5b3c78a8488a09868868c61ab7309",
+  "version": 2,
+  "checksum": "8a8c6fa9469ef08ba64fce94a1fffd476c80d27991f0708bfbd2ac0a9e50a273",
   "cards": [
     {
       "id": "glc-e449eb4801",
@@ -1624,7 +1624,7 @@
       "originalYear": 2019,
       "difficulty": "easy",
       "language": "fr",
-      "genre": "variete_internationale",
+      "genre": "rap_hiphop",
       "previewStartMs": 0,
       "yearConfidence": 0.9,
       "yearSource": "musicbrainz",
@@ -1854,7 +1854,7 @@
       "originalYear": 2026,
       "difficulty": "easy",
       "language": "en",
-      "genre": "variete_internationale",
+      "genre": "pop",
       "previewStartMs": 0,
       "yearConfidence": 0.9,
       "yearSource": "musicbrainz",
@@ -2022,7 +2022,7 @@
         "Linkin Park"
       ],
       "originalYear": 2003,
-      "difficulty": "medium",
+      "difficulty": "easy",
       "language": "en",
       "genre": "rap_hiphop",
       "previewStartMs": 0,
@@ -2090,7 +2090,7 @@
         "Linkin Park"
       ],
       "originalYear": 2003,
-      "difficulty": "medium",
+      "difficulty": "easy",
       "language": "en",
       "genre": "rap_hiphop",
       "previewStartMs": 0,
@@ -2576,6 +2576,2134 @@
       "yearConfidence": 0.9,
       "yearSource": "musicbrainz",
       "musicbrainzRecordingId": "9b64b0b2-4e06-42a5-8f5b-4ee6e1a7f87d"
+    },
+    {
+      "id": "glc-8aa370719d",
+      "spotifyTrackUri": "spotify:track:7ogpGbKc4Io6NCU6ydxXwZ",
+      "isrc": "USAT22600670",
+      "title": "FEVER DREAM",
+      "artists": [
+        "Alex Warren"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3e6e9956-f059-411f-b661-5c2eefcebc02"
+    },
+    {
+      "id": "glc-533da8b1c8",
+      "spotifyTrackUri": "spotify:track:2g5kPQh1EexoG8kGZH2nOZ",
+      "isrc": "USWB12601324",
+      "title": "Mr. Know It All",
+      "artists": [
+        "Teddy Swims"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "de4a5aa5-f6e3-4817-8d35-1b78aeee19a0"
+    },
+    {
+      "id": "glc-2570d3aa9d",
+      "spotifyTrackUri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
+      "isrc": "USUM72601821",
+      "title": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ac849ae0-384b-4f6d-bbd1-cc1fdf42f6e7"
+    },
+    {
+      "id": "glc-4919f8eb20",
+      "spotifyTrackUri": "spotify:track:4WuAr5SE1ZfXxu6OWtykkG",
+      "isrc": "UKWLG2600033",
+      "title": "Save Me Tonight",
+      "artists": [
+        "Jennifer Lopez",
+        "David Guetta"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "549591da-7f73-4c15-95c3-708cc9643316"
+    },
+    {
+      "id": "glc-dbfda8b758",
+      "spotifyTrackUri": "spotify:track:3XtgZGEcCXf6ILvQTDl9IZ",
+      "isrc": "FRX452627150",
+      "title": "Le Plus Beau",
+      "artists": [
+        "TeddyBear"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f389540d-fd27-47dd-9e72-92332a077ae3"
+    },
+    {
+      "id": "glc-9b86818d85",
+      "spotifyTrackUri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+      "isrc": "USUG12506436",
+      "title": "The Fate of Ophelia",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8670a098-6ab7-4e18-8ac0-0ec7259151f8"
+    },
+    {
+      "id": "glc-013ffa2e1e",
+      "spotifyTrackUri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
+      "isrc": "QMFME2535037",
+      "title": "WHERE IS MY HUSBAND!",
+      "artists": [
+        "RAYE"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8493b88b-faf1-4735-b329-2366ad52b955"
+    },
+    {
+      "id": "glc-d1050d3c48",
+      "spotifyTrackUri": "spotify:track:12bYYQaLqHliSXvRIYlq8G",
+      "isrc": "USAT22509144",
+      "title": "I Just Might",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "781018b7-f4f0-4fae-9b41-f45ecbe34024"
+    },
+    {
+      "id": "glc-974dc4f2c3",
+      "spotifyTrackUri": "spotify:track:0TDLuuLlV54CkRRUOahJb4",
+      "isrc": "GB28K1100036",
+      "title": "Titanium (feat. Sia)",
+      "artists": [
+        "David Guetta",
+        "Sia"
+      ],
+      "originalYear": 2011,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0069c0f7-9274-4b4b-a10e-110b90a4bcc0"
+    },
+    {
+      "id": "glc-f579945b82",
+      "spotifyTrackUri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W",
+      "isrc": "USJAY1100032",
+      "title": "Give Me Everything (feat. Nayer)",
+      "artists": [
+        "Pitbull",
+        "AFROJACK",
+        "Ne-Yo",
+        "Nayer"
+      ],
+      "originalYear": 2011,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "748b6681-c103-4a6f-bb8f-769e620d2121"
+    },
+    {
+      "id": "glc-f123e1684d",
+      "spotifyTrackUri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "isrc": "USUM72401994",
+      "title": "BIRDS OF A FEATHER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3a7e1970-069c-4761-a6b2-9046e54406bc"
+    },
+    {
+      "id": "glc-770c8c8882",
+      "spotifyTrackUri": "spotify:track:3ouNEk0tv5TTi8VWMe1xbX",
+      "isrc": "USUM72602757",
+      "title": "Animal",
+      "artists": [
+        "KATSEYE"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d2c85680-63a7-425d-a8d9-5d992c4a983a"
+    },
+    {
+      "id": "glc-76b88f54b6",
+      "spotifyTrackUri": "spotify:track:5Ohxk2dO5COHF1krpoPigN",
+      "isrc": "USSM11703595",
+      "title": "Sign of the Times",
+      "artists": [
+        "Harry Styles"
+      ],
+      "originalYear": 2017,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3125b023-6a45-4a68-98ec-a88634866983"
+    },
+    {
+      "id": "glc-543336d7e3",
+      "spotifyTrackUri": "spotify:track:5b5cPscqVEMChvDqscVw26",
+      "isrc": "GBAHT2301078",
+      "title": "Training Season",
+      "artists": [
+        "Dua Lipa"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "415824fa-6315-4043-aeb0-eb84a9dfa552"
+    },
+    {
+      "id": "glc-9455407747",
+      "spotifyTrackUri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
+      "isrc": "USBQU1700034",
+      "title": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "originalYear": 2017,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a847bc14-7d8e-4009-ae3c-e7b60ecc71d3"
+    },
+    {
+      "id": "glc-3a22fb7fc6",
+      "spotifyTrackUri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+      "isrc": "USUM72503465",
+      "title": "Gabriela",
+      "artists": [
+        "KATSEYE"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "cb6ddab8-e752-4508-b067-e5ebc9d5b21b"
+    },
+    {
+      "id": "glc-f4f6a58960",
+      "spotifyTrackUri": "spotify:track:68lbSrXDORS51pmyjZv712",
+      "isrc": "USA2P2600449",
+      "title": "SWIM",
+      "artists": [
+        "BTS"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6"
+    },
+    {
+      "id": "glc-e6ec8ca76c",
+      "spotifyTrackUri": "spotify:track:7DSAEUvxU8FajXtRloy8M0",
+      "isrc": "USSM12209777",
+      "title": "Flowers",
+      "artists": [
+        "Miley Cyrus"
+      ],
+      "originalYear": 2023,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4ddebe69-6db5-4338-97d3-299cfdc72fb2"
+    },
+    {
+      "id": "glc-d5ac581506",
+      "spotifyTrackUri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
+      "isrc": "GBUM72503089",
+      "title": "Man I Need",
+      "artists": [
+        "Olivia Dean"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "cba278b0-f241-41ee-bf7c-6c20c3e69571"
+    },
+    {
+      "id": "glc-30f66d6c84",
+      "spotifyTrackUri": "spotify:track:4hFDFmMnSYZ32ssqNUOCjt",
+      "isrc": "DEE862600182",
+      "title": "Magnetic",
+      "artists": [
+        "The Bausa"
+      ],
+      "originalYear": 2026,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "115ca239-f21c-4c99-97e3-1a958ab6bd03"
+    },
+    {
+      "id": "glc-c81cdfc811",
+      "spotifyTrackUri": "spotify:track:11hcBLPtbMp4aQI6zGQLub",
+      "isrc": "USUG12602391",
+      "title": "Patient Zero",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "originalYear": 2026,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "99987249-0e0f-48f3-b29e-c6300102099a"
+    },
+    {
+      "id": "glc-8e229ce4c8",
+      "spotifyTrackUri": "spotify:track:7oVEtyuv9NBmnytsCIsY5I",
+      "isrc": "USWB11200587",
+      "title": "BURN IT DOWN",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2012,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5e54d4be-a83b-41d1-9372-06fa58b4c36d"
+    },
+    {
+      "id": "glc-f865a4aaac",
+      "spotifyTrackUri": "spotify:track:1r1fPuhj9H4VdXr7OK6FL5",
+      "isrc": "USWB11200795",
+      "title": "CASTLE OF GLASS",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2012,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "53dae548-3a00-4fab-85f1-9721cdb057e1"
+    },
+    {
+      "id": "glc-56952eb558",
+      "spotifyTrackUri": "spotify:track:2HBBM75Xv3o2Mqdyh1NcM0",
+      "isrc": "USWB12403466",
+      "title": "Heavy Is the Crown",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "dd290c64-1328-411a-8823-c56489a63c7d"
+    },
+    {
+      "id": "glc-ce0e909dba",
+      "spotifyTrackUri": "spotify:track:3K4HG9evC7dg3N0R9cYqk4",
+      "isrc": "USWB10002399",
+      "title": "One Step Closer",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c6111171-bb92-4401-9053-f165863547f2"
+    },
+    {
+      "id": "glc-b577dbc99a",
+      "spotifyTrackUri": "spotify:track:3dxiWIBVJRlqh9xk144rf4",
+      "isrc": "USWB10300470",
+      "title": "Breaking the Habit",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2003,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c46464b2-ee6e-448c-8d22-871b139a0e38"
+    },
+    {
+      "id": "glc-9d0990277e",
+      "spotifyTrackUri": "spotify:track:3gVhsZtseYtY1fMuyYq06F",
+      "isrc": "DEN120003766",
+      "title": "Sonne",
+      "artists": [
+        "Rammstein"
+      ],
+      "originalYear": 2001,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f8030bcd-e6e4-48cb-ba0d-58b3a1132ad4"
+    },
+    {
+      "id": "glc-a6945509df",
+      "spotifyTrackUri": "spotify:track:2MuWTIM3b0YEAskbeeFE1i",
+      "isrc": "QMKHM1600219",
+      "title": "Master Of Puppets",
+      "artists": [
+        "Metallica"
+      ],
+      "originalYear": 1986,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0151d8a4-50c8-4036-b824-4a4f4b140e8e"
+    },
+    {
+      "id": "glc-df2d26bcc1",
+      "spotifyTrackUri": "spotify:track:2avKuMN2QXkaG9vvHa2JLt",
+      "isrc": "USIR10000604",
+      "title": "Take A Look Around",
+      "artists": [
+        "Limp Bizkit"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d54a42b4-2875-4f35-b215-6e08d666526f"
+    },
+    {
+      "id": "glc-a736d247ef",
+      "spotifyTrackUri": "spotify:track:61mWefnWQOLf90gepjOCb3",
+      "isrc": "NLA320420785",
+      "title": "Duality",
+      "artists": [
+        "Slipknot"
+      ],
+      "originalYear": 2004,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "50052fc5-7a97-479a-8563-299844846ad8"
+    },
+    {
+      "id": "glc-c848c84f6d",
+      "spotifyTrackUri": "spotify:track:1Vej0qeQ3ioKwpI6FUbRv1",
+      "isrc": "USWB10002403",
+      "title": "Papercut",
+      "artists": [
+        "Linkin Park"
+      ],
+      "originalYear": 2000,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9aa621e1-46f2-4c91-8111-741583985612"
+    },
+    {
+      "id": "glc-76dbc25a30",
+      "spotifyTrackUri": "spotify:track:15BQ7vEDv2LJuh8TxWIhtd",
+      "isrc": "USVI20700278",
+      "title": "The Passenger",
+      "artists": [
+        "Iggy Pop"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "bd6a4252-4b49-47b8-8cc9-0722c1d8fc93"
+    },
+    {
+      "id": "glc-e6534525ef",
+      "spotifyTrackUri": "spotify:track:1HNE2PX70ztbEl6MLxrpNL",
+      "isrc": "USIR20110114",
+      "title": "In Too Deep",
+      "artists": [
+        "Sum 41"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "1a987223-78db-4a67-87a3-0cb9eb3c3c10"
+    },
+    {
+      "id": "glc-7907f48891",
+      "spotifyTrackUri": "spotify:track:64yrDBpcdwEdNY9loyEGbX",
+      "isrc": "USRE10900679",
+      "title": "21 Guns",
+      "artists": [
+        "Green Day"
+      ],
+      "originalYear": 2009,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "1c98f48c-b617-489c-adb6-31aae5038636"
+    },
+    {
+      "id": "glc-8c78a7a3bc",
+      "spotifyTrackUri": "spotify:track:1FkoVC85Ds3mFoK0fVqEqP",
+      "isrc": "USEP40312208",
+      "title": "Self Esteem",
+      "artists": [
+        "The Offspring"
+      ],
+      "originalYear": 1994,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5a57b450-fecd-4ab5-a400-1e4b5d22dfbc"
+    },
+    {
+      "id": "glc-b417ea31a5",
+      "spotifyTrackUri": "spotify:track:3SFXsFpeGmBTtQvKiwYMDA",
+      "isrc": "USSM19804199",
+      "title": "Pretty Fly (For A White Guy)",
+      "artists": [
+        "The Offspring"
+      ],
+      "originalYear": 1998,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "31274d55-9619-428e-a8a1-aabaed124c51"
+    },
+    {
+      "id": "glc-6158134c7f",
+      "spotifyTrackUri": "spotify:track:2m1hi0nfMR9vdGC8UcrnwU",
+      "isrc": "USMC19959123",
+      "title": "All The Small Things",
+      "artists": [
+        "blink-182"
+      ],
+      "originalYear": 1999,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f36d9818-019b-4379-ad13-5080feb9ad8a"
+    },
+    {
+      "id": "glc-2c2bb483a7",
+      "spotifyTrackUri": "spotify:track:5vfjUAhefN7IjHbTvVCT4Z",
+      "isrc": "USRE10500451",
+      "title": "Holiday",
+      "artists": [
+        "Green Day"
+      ],
+      "originalYear": 2004,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "80549cae-482b-4e25-8f86-b41f47ef9782"
+    },
+    {
+      "id": "glc-c61266bbd3",
+      "spotifyTrackUri": "spotify:track:3Te8uLyit6X3ncNW8Fp3K2",
+      "isrc": "USUM71417740",
+      "title": "Immortals",
+      "artists": [
+        "Fall Out Boy"
+      ],
+      "originalYear": 2015,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "07e7a779-443e-4b0b-b047-b86bd51da4f4"
+    },
+    {
+      "id": "glc-52a850bdae",
+      "spotifyTrackUri": "spotify:track:10rChmECwPcvTTj4w07hq4",
+      "isrc": "USAT20402001",
+      "title": "Welcome to My Life",
+      "artists": [
+        "Simple Plan"
+      ],
+      "originalYear": 2004,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a49a6ede-a1af-468c-a0c7-e995db013e09"
+    },
+    {
+      "id": "glc-f90965c5c8",
+      "spotifyTrackUri": "spotify:track:5JJDu0Z5DKe7mR31MGksSg",
+      "isrc": "USEP40312207",
+      "title": "Come Out and Play",
+      "artists": [
+        "The Offspring"
+      ],
+      "originalYear": 1994,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ae4f2554-4b8c-4089-8b6a-eccdbff91928"
+    },
+    {
+      "id": "glc-95f76f36a2",
+      "spotifyTrackUri": "spotify:track:3Zwu2K0Qa5sT6teCCHPShP",
+      "isrc": "USUM70700326",
+      "title": "Thnks fr th Mmrs",
+      "artists": [
+        "Fall Out Boy"
+      ],
+      "originalYear": 2007,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ada26bf1-1a82-4815-9c32-cd7e0efee913"
+    },
+    {
+      "id": "glc-d1022fc93a",
+      "spotifyTrackUri": "spotify:track:3l9CW99AHtExIRV4hW2N5m",
+      "isrc": "USAT20702617",
+      "title": "Misery Business",
+      "artists": [
+        "Paramore"
+      ],
+      "originalYear": 2007,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "26bc1124-b228-401e-8f38-5cea1625d8c2"
+    },
+    {
+      "id": "glc-83a7bafa3b",
+      "spotifyTrackUri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
+      "isrc": "USAT20902328",
+      "title": "All I Wanted",
+      "artists": [
+        "Paramore"
+      ],
+      "originalYear": 2009,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "metal_punk",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "72f96e56-c527-49b2-9613-87960c423e2c"
+    },
+    {
+      "id": "glc-073eeb5439",
+      "spotifyTrackUri": "spotify:track:0kl6Ozan3fuUdCl6TlB15v",
+      "isrc": "CBEFB2600137",
+      "title": "Talk To You (ft. 54 Ultra)",
+      "artists": [
+        "ANOTR",
+        "54 Ultra"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "52242fe3-d882-475a-bf72-370b170d4825"
+    },
+    {
+      "id": "glc-a9030b1554",
+      "spotifyTrackUri": "spotify:track:4jSrN7kXdQUmbVxJe5x6Xg",
+      "isrc": "BEIW12500926",
+      "title": "Makina Time",
+      "artists": [
+        "Dimitri Vegas & Like Mike",
+        "Marlon Hoffstadt",
+        "Dj Konik",
+        "Dimitri Vegas",
+        "Like Mike"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e25a3f14-591c-4266-8b48-a8ffe32c134c"
+    },
+    {
+      "id": "glc-6875ac209c",
+      "spotifyTrackUri": "spotify:track:5nPbKG04fhLkIAjcPFaZq7",
+      "isrc": "DECE72401347",
+      "title": "I Adore You (feat. Daecolm)",
+      "artists": [
+        "HUGEL",
+        "Topic",
+        "Arash",
+        "Daecolm"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ac4e5efe-5d86-4bdb-9448-5fb27ca3b02f"
+    },
+    {
+      "id": "glc-703317a428",
+      "spotifyTrackUri": "spotify:track:7J4dPn4Xg9Op0e8N2tjqkX",
+      "isrc": "BE8HB2600001",
+      "title": "What You Want",
+      "artists": [
+        "Angèle",
+        "Justice"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "08b0ae35-ab1e-421d-b4f3-74fe4fb4c1c0"
+    },
+    {
+      "id": "glc-7877fe4baa",
+      "spotifyTrackUri": "spotify:track:7MmG8p0F9N3C4AXdK6o6Eb",
+      "isrc": "GBARL1401201",
+      "title": "Outside (feat. Ellie Goulding)",
+      "artists": [
+        "Calvin Harris",
+        "Ellie Goulding"
+      ],
+      "originalYear": 2014,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c6d80877-8f6b-4a35-a1b8-9191313c3331"
+    },
+    {
+      "id": "glc-5e0c93270b",
+      "spotifyTrackUri": "spotify:track:6YUTL4dYpB9xZO5qExPf05",
+      "isrc": "GBARL1400296",
+      "title": "Summer",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "originalYear": 2014,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9f192d15-def7-4446-a7cd-19446ca752f0"
+    },
+    {
+      "id": "glc-1442a4a8fb",
+      "spotifyTrackUri": "spotify:track:7czFYbkjbMdgbUXbkt7jUU",
+      "isrc": "QT5M52508515",
+      "title": "I Run",
+      "artists": [
+        "HAVEN.",
+        "Kaitlin Aragon"
+      ],
+      "originalYear": 2025,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8c695815-d441-4387-9aad-eb148d345018"
+    },
+    {
+      "id": "glc-d52245f401",
+      "spotifyTrackUri": "spotify:track:2KejCKgm7l3uefW9cFt8cH",
+      "isrc": "FR9W12445550",
+      "title": "Nightcall",
+      "artists": [
+        "Kavinsky",
+        "Angèle",
+        "Phoenix"
+      ],
+      "originalYear": 2024,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "bdc66d13-bd51-48a8-b07c-7ca4fd033ea0"
+    },
+    {
+      "id": "glc-411d47b6c1",
+      "spotifyTrackUri": "spotify:track:0U0ldCRmgCqhVvD6ksG63j",
+      "isrc": "FRS710900410",
+      "title": "Nightcall",
+      "artists": [
+        "Kavinsky"
+      ],
+      "originalYear": 2010,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3a2f5805-565f-433f-a92d-d1ac7aee6575"
+    },
+    {
+      "id": "glc-258c44041f",
+      "spotifyTrackUri": "spotify:track:0DiWol3AO6WpXZgp0goxAV",
+      "isrc": "GBDUW0000053",
+      "title": "One More Time",
+      "artists": [
+        "Daft Punk"
+      ],
+      "originalYear": 2000,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "60fa767a-d85d-4991-82bc-4294e0b11ae7"
+    },
+    {
+      "id": "glc-b40514a1c0",
+      "spotifyTrackUri": "spotify:track:6JnsxE0leMVkUvTV0n969D",
+      "isrc": "FR7O52600180",
+      "title": "Tu dors ?",
+      "artists": [
+        "PLK"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "114ae9ad-a724-4d07-b7e6-5fb3c2582cb9"
+    },
+    {
+      "id": "glc-3ecbfbad32",
+      "spotifyTrackUri": "spotify:track:1byhuuppATD0mkomdNYIoa",
+      "isrc": "QZFZ31997829",
+      "title": "Bohème",
+      "artists": [
+        "$afia Bahmed-Schwartz"
+      ],
+      "originalYear": 2017,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a19e378a-74a5-4840-a521-c2c08a371456"
+    },
+    {
+      "id": "glc-9389d03ad8",
+      "spotifyTrackUri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
+      "isrc": "QMDA62312093",
+      "title": "From The Start",
+      "artists": [
+        "Laufey"
+      ],
+      "originalYear": 2023,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "07d30250-a5a4-496f-9bd2-d0d8047d275b"
+    },
+    {
+      "id": "glc-d21f1295da",
+      "spotifyTrackUri": "spotify:track:0OYMLWBWoCTvWNZrAYZJV9",
+      "isrc": "CAC220300084",
+      "title": "Tout l'or des hommes",
+      "artists": [
+        "Céline Dion"
+      ],
+      "originalYear": 2003,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "chanson_francaise",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9dced74d-f985-49c5-b66c-5796c33f56e9"
+    },
+    {
+      "id": "glc-2d4cb834ed",
+      "spotifyTrackUri": "spotify:track:5fdNHVZHbWB1AaXk4RBGVD",
+      "isrc": "USEE10900522",
+      "title": "Just the Two of Us",
+      "artists": [
+        "Grover Washington, Jr.",
+        "Bill Withers"
+      ],
+      "originalYear": 1980,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ce840f51-033c-4e72-b6e1-6571ca813051"
+    },
+    {
+      "id": "glc-79250a7f7b",
+      "spotifyTrackUri": "spotify:track:7zkLpY72g6lKQbiHDqri1S",
+      "isrc": "USBN20300893",
+      "title": "Sunrise",
+      "artists": [
+        "Norah Jones"
+      ],
+      "originalYear": 2004,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3c68dc9a-7534-499d-a309-8412e155c539"
+    },
+    {
+      "id": "glc-fba4437075",
+      "spotifyTrackUri": "spotify:track:6y0Etr2KJr0sdcEp7ajoUK",
+      "isrc": "GBARL1201221",
+      "title": "Cosmic Girl - Remastered 2013",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "originalYear": 1996,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "76c67da1-fa97-4b37-b7cb-f6340ebadeb6"
+    },
+    {
+      "id": "glc-9a058c2f94",
+      "spotifyTrackUri": "spotify:track:4q9xPNEdlgos4b05BARloJ",
+      "isrc": "FR9W12437240",
+      "title": "120 BPM",
+      "artists": [
+        "Jive Me"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "2f70aa77-66c7-4e06-b360-325dcaf0eb36"
+    },
+    {
+      "id": "glc-24eddee52c",
+      "spotifyTrackUri": "spotify:track:6kK2YbF8boQl32Lqkai3Ca",
+      "isrc": "ATE612000002",
+      "title": "All Night",
+      "artists": [
+        "Parov Stelar"
+      ],
+      "originalYear": 2012,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "64b5f5d9-d7d4-4c70-87a7-2b30217108fd"
+    },
+    {
+      "id": "glc-84b35544cc",
+      "spotifyTrackUri": "spotify:track:2Bxt2qamL6iu0XN0Td484J",
+      "isrc": "GBARL1201220",
+      "title": "Virtual Insanity - Remastered 2013",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "originalYear": 1996,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "38e9b1d7-f024-4010-bb61-ec1601350249"
+    },
+    {
+      "id": "glc-d63cea8c7d",
+      "spotifyTrackUri": "spotify:track:4nwjvcUjV7cexhwA40Bh5i",
+      "isrc": "QM6N22553527",
+      "title": "Lover Girl",
+      "artists": [
+        "Laufey"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b3f97c93-de02-4760-b91d-8364d2754248"
+    },
+    {
+      "id": "glc-9c67d1f819",
+      "spotifyTrackUri": "spotify:track:7b7lOKaExY2zqFdOzIAiuJ",
+      "isrc": "USUG12603506",
+      "title": "He’s Not My Baby, I’m His",
+      "artists": [
+        "SIENNA SPIRO"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "7cdaf6a4-7cb0-401f-af04-9e222b95d28b"
+    },
+    {
+      "id": "glc-3f2b95cf80",
+      "spotifyTrackUri": "spotify:track:07lwMZLo0Nxc01nMXuiVL8",
+      "isrc": "QM6MZ2683492",
+      "title": "Sunshine",
+      "artists": [
+        "Jungle"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "53ec0930-d5ed-4b9f-99f8-f006e716b3f8"
+    },
+    {
+      "id": "glc-66fe407730",
+      "spotifyTrackUri": "spotify:track:6IoDmKMOqGMYwny9MjQ6dg",
+      "isrc": "GX3Q92099211",
+      "title": "deep in it",
+      "artists": [
+        "berlioz",
+        "Ted Jasper"
+      ],
+      "originalYear": 2023,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d112130a-9d70-402b-b640-993cda86dda0"
+    },
+    {
+      "id": "glc-f3d00ae6d2",
+      "spotifyTrackUri": "spotify:track:750jVPZnBVLItCUxaRR5iC",
+      "isrc": "FR89R1500001",
+      "title": "Lone Digger",
+      "artists": [
+        "Caravan Palace"
+      ],
+      "originalYear": 2015,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5f926e49-e0b8-4b45-8172-a1b9076d6b22"
+    },
+    {
+      "id": "glc-17950cac65",
+      "spotifyTrackUri": "spotify:track:4KGGeE7RJsgLNZmnxGFlOj",
+      "isrc": "GBKPL2298396",
+      "title": "Falling Behind",
+      "artists": [
+        "Laufey"
+      ],
+      "originalYear": 2022,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6587f3e0-2eaa-4b9e-bf49-948cc323029a"
+    },
+    {
+      "id": "glc-52b7b40625",
+      "spotifyTrackUri": "spotify:track:709p9UGPAuyImWf1Z3vjRo",
+      "isrc": "TCAFR2175884",
+      "title": "Let You Break My Heart Again",
+      "artists": [
+        "Laufey",
+        "Philharmonia Orchestra"
+      ],
+      "originalYear": 2021,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "935ba27d-c48c-4f53-8910-2e4026460f83"
+    },
+    {
+      "id": "glc-728b5828f1",
+      "spotifyTrackUri": "spotify:track:08PdFBcXzpkn1cWNgmKqhn",
+      "isrc": "QMDA62312092",
+      "title": "Promise",
+      "artists": [
+        "Laufey"
+      ],
+      "originalYear": 2023,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "167a32ab-06c8-4d2c-acb8-7cae80e1cb5d"
+    },
+    {
+      "id": "glc-48ef0d5ef2",
+      "spotifyTrackUri": "spotify:track:2wXy7MhpWa1t4n86QzaCVL",
+      "isrc": "USWB10505232",
+      "title": "Blue Jean Blues (2005 Remaster)",
+      "artists": [
+        "ZZ Top"
+      ],
+      "originalYear": 1975,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "134d84ef-676e-49c6-b36a-bfc21189fa30"
+    },
+    {
+      "id": "glc-bda5f87258",
+      "spotifyTrackUri": "spotify:track:0DnGfA1r8pAssJCuq4ojla",
+      "isrc": "GBAAA9000090",
+      "title": "Still Got The Blues",
+      "artists": [
+        "Gary Moore"
+      ],
+      "originalYear": 1990,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5665a7c2-dd7b-4764-ac36-796bc61a5bd4"
+    },
+    {
+      "id": "glc-2e9d5bc38f",
+      "spotifyTrackUri": "spotify:track:1KZG1H1OCugGqIRmk1wF9m",
+      "isrc": "USAT22409405",
+      "title": "Indigo (feat. Avery Anna)",
+      "artists": [
+        "Sam Barber",
+        "Avery Anna"
+      ],
+      "originalYear": 2024,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d140c72d-1338-4b65-ab29-4c04488dadb7"
+    },
+    {
+      "id": "glc-8979ea7162",
+      "spotifyTrackUri": "spotify:track:6nleD42Dimnc5fHnpA2T2R",
+      "isrc": "CAO371913005",
+      "title": "You Were Mine",
+      "artists": [
+        "Tami Neilson"
+      ],
+      "originalYear": 2020,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "82b6710a-7b23-42b2-b8c7-7f95f3efdae3"
+    },
+    {
+      "id": "glc-5311c3dea1",
+      "spotifyTrackUri": "spotify:track:21ibWmqCyKTYlVIhNsVDit",
+      "isrc": "QZTB82663024",
+      "title": "Step by Step in Time",
+      "artists": [
+        "Benny Rivers"
+      ],
+      "originalYear": 2026,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "66c4be06-b16b-470f-be07-ade265303225"
+    },
+    {
+      "id": "glc-a9698c323d",
+      "spotifyTrackUri": "spotify:track:0ryoOkpaDeSQRoYQGGJAxn",
+      "isrc": "US2HK1341002",
+      "title": "Trouble, Heartaches & Sadness",
+      "artists": [
+        "Ann Peebles"
+      ],
+      "originalYear": 1971,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "07109bfc-7eba-40eb-87d4-a4a49283306c"
+    },
+    {
+      "id": "glc-00272835aa",
+      "spotifyTrackUri": "spotify:track:58PSYdY0GFg0LFb2PxYk4T",
+      "isrc": "USSM17600224",
+      "title": "Mannish Boy",
+      "artists": [
+        "Muddy Waters"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "0fdeba6f-dbe8-419e-acb9-ec37eaee2332"
+    },
+    {
+      "id": "glc-fbcd517ac2",
+      "spotifyTrackUri": "spotify:track:7d9sZF7jmepe2EYdETlNWK",
+      "isrc": "USAT21601411",
+      "title": "Hot Blood",
+      "artists": [
+        "KALEO"
+      ],
+      "originalYear": 2016,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "jazz_blues",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "8ec3b22a-d449-4b35-a025-e17121d8d743"
+    },
+    {
+      "id": "glc-d5b5f2ef3e",
+      "spotifyTrackUri": "spotify:track:3BntzKsnLf2pc0dsvE3Zav",
+      "isrc": "USWB12403749",
+      "title": "Bad Dreams",
+      "artists": [
+        "Teddy Swims"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "551ad893-bbf9-4b71-8893-bb96c5b3687a"
+    },
+    {
+      "id": "glc-4c0a1508c9",
+      "spotifyTrackUri": "spotify:track:3Ggrf13afYb41oxbnpafPR",
+      "isrc": "QZNWW2678435",
+      "title": "LET ME BE",
+      "artists": [
+        "The Second Voice"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9f51bde4-8367-40e7-bd0e-18857d20b886"
+    },
+    {
+      "id": "glc-f17372925d",
+      "spotifyTrackUri": "spotify:track:6J3HNhDBIwEX11bX8hzx5u",
+      "isrc": "USATO1900023",
+      "title": "Colors",
+      "artists": [
+        "Black Pumas"
+      ],
+      "originalYear": 2019,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ea8c802e-7d83-4a0a-8039-b7f7508c22b1"
+    },
+    {
+      "id": "glc-0231ed34ea",
+      "spotifyTrackUri": "spotify:track:0JXXNGljqupsJaZsgSbMZV",
+      "isrc": "USJI10800160",
+      "title": "Sure Thing",
+      "artists": [
+        "Miguel"
+      ],
+      "originalYear": 2010,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f7eb64ad-8148-4c96-9d53-5096176fa8ab"
+    },
+    {
+      "id": "glc-7612f0e069",
+      "spotifyTrackUri": "spotify:track:3aw9iWUQ3VrPQltgwvN9Xu",
+      "isrc": "USMC10111369",
+      "title": "Family Affair",
+      "artists": [
+        "Mary J. Blige"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "c0d6b00e-45f2-438b-b54e-a067ff55c65e"
+    },
+    {
+      "id": "glc-374b5c9076",
+      "spotifyTrackUri": "spotify:track:4Jsus7N4d8hFB2G9gcRdBv",
+      "isrc": "GXJBS2557689",
+      "title": "NOBLE",
+      "artists": [
+        "F3miii"
+      ],
+      "originalYear": 2025,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "78e8e843-b4e1-4235-b779-22ba1ec58779"
+    },
+    {
+      "id": "glc-7b0592ae03",
+      "spotifyTrackUri": "spotify:track:0KQx6HOpJueiSkztcS0r7D",
+      "isrc": "USJAY0100057",
+      "title": "Fallin'",
+      "artists": [
+        "Alicia Keys"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rap_hiphop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "7276155b-a01b-42a9-9d31-eb0c317d07b8"
+    },
+    {
+      "id": "glc-2987bcd054",
+      "spotifyTrackUri": "spotify:track:1De425SCFJULIHbcmeebUw",
+      "isrc": "QZZ662445642",
+      "title": "LET THE WORLD BURN",
+      "artists": [
+        "Chris Grey"
+      ],
+      "originalYear": 2024,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "03316478-8559-4574-9118-76d9b0d78467"
+    },
+    {
+      "id": "glc-c9be13bdcb",
+      "spotifyTrackUri": "spotify:track:31kxPC3ZB9AYwCLyHaqEVX",
+      "isrc": "USRC12302300",
+      "title": "Me & U",
+      "artists": [
+        "Tems"
+      ],
+      "originalYear": 2023,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "soul_funk_rnb",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "914eb1ed-4b01-4be4-9cb9-0d7b11da8f7b"
+    },
+    {
+      "id": "glc-53dc29c1c4",
+      "spotifyTrackUri": "spotify:track:4jnFqNWeJCeCRHc4HCdxfd",
+      "isrc": "USSM10020715",
+      "title": "Remember the Time",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "originalYear": 1991,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a0a52320-cdc3-4245-91a6-4e4e684065c4"
+    },
+    {
+      "id": "glc-93b23d331f",
+      "spotifyTrackUri": "spotify:track:0nP8XXnfBQnP3jllQj6f4K",
+      "isrc": "QMFMG2543019",
+      "title": "ONE TRACK MIND",
+      "artists": [
+        "Naïka"
+      ],
+      "originalYear": 2026,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "14873dd5-3c89-43dc-b71c-974c0fe7e209"
+    },
+    {
+      "id": "glc-cb3d3cd4c2",
+      "spotifyTrackUri": "spotify:track:480j122Gpi252OIfy4SNzm",
+      "isrc": "FRUM72400728",
+      "title": "Yamore",
+      "artists": [
+        "MoBlack",
+        "Salif Keita",
+        "Benja (NL)",
+        "Franc Fala",
+        "Cesária Evora"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "97f343c2-f971-45a6-9398-5b0e7d20cbea"
+    },
+    {
+      "id": "glc-bdaa07fb41",
+      "spotifyTrackUri": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
+      "isrc": "DEEC33501508",
+      "title": "Move",
+      "artists": [
+        "Adam Port",
+        "Stryv",
+        "Keinemusik",
+        "Orso",
+        "Malachiii"
+      ],
+      "originalYear": 2024,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "d0ebc930-1789-4adf-a101-6afcdc588803"
+    },
+    {
+      "id": "glc-0f4355366b",
+      "spotifyTrackUri": "spotify:track:5ITV0zqzjOYfFWpW0xBmRa",
+      "isrc": "DE1FB2500005",
+      "title": "Show Me Love",
+      "artists": [
+        "WizTheMc",
+        "bees & honey"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f7e4f86b-89e7-48c5-966c-55668245e303"
+    },
+    {
+      "id": "glc-b4b7e788f3",
+      "spotifyTrackUri": "spotify:track:35dt2bP4CcBzepyufQbvYZ",
+      "isrc": "QZUCN2202289",
+      "title": "Fire Fire",
+      "artists": [
+        "Shimza",
+        "AR/CO",
+        "Kasango"
+      ],
+      "originalYear": 2025,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "664da16c-37ff-447a-b50b-7e5bfda502ac"
+    },
+    {
+      "id": "glc-4fb435d81a",
+      "spotifyTrackUri": "spotify:track:2IJftBfq7pJ43tfnOR0RB3",
+      "isrc": "DEE868300011",
+      "title": "99 Luftballons",
+      "artists": [
+        "Nena"
+      ],
+      "originalYear": 1983,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f4655387-c676-4b07-9a27-f560ba254170"
+    },
+    {
+      "id": "glc-499d1e1857",
+      "spotifyTrackUri": "spotify:track:1p2ea5Dy0tOnt9q4wfy4aX",
+      "isrc": "USA2P0804885",
+      "title": "Bam Bam",
+      "artists": [
+        "Sister Nancy"
+      ],
+      "originalYear": 1982,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "electro_dance",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "6941913b-f2c0-4638-a144-a19715df3517"
+    },
+    {
+      "id": "glc-f2ffc7edb7",
+      "spotifyTrackUri": "spotify:track:0UZtknI7pCLAVGtHPLIYXZ",
+      "isrc": "FR6V80910221",
+      "title": "Marley",
+      "artists": [
+        "Danakil",
+        "Balik"
+      ],
+      "originalYear": 2008,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "00b07bb3-06f4-492e-a928-50caf587af44"
+    },
+    {
+      "id": "glc-20ac03f9dd",
+      "spotifyTrackUri": "spotify:track:00SmB7n85SKROGjybsyq5i",
+      "isrc": "FRZ189800013",
+      "title": "Bongo Bong",
+      "artists": [
+        "Manu Chao"
+      ],
+      "originalYear": 1998,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "aef7788e-0132-4039-bb45-d2c6036ae1c8"
+    },
+    {
+      "id": "glc-ffb55a2c9f",
+      "spotifyTrackUri": "spotify:track:5O4erNlJ74PIF6kGol1ZrC",
+      "isrc": "USIR28000016",
+      "title": "Could You Be Loved",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "originalYear": 1980,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "13ef609a-ceb6-44c5-b1cd-6ed05b8948cf"
+    },
+    {
+      "id": "glc-a92a1cc6a9",
+      "spotifyTrackUri": "spotify:track:58dGRQrNmAJeRMFuguUbvD",
+      "isrc": "USVPR2100046",
+      "title": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "artists": [
+        "Spice",
+        "Sean Paul",
+        "Shaggy"
+      ],
+      "originalYear": 2021,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "cff3ef35-9989-4116-b3cb-046060e707b6"
+    },
+    {
+      "id": "glc-f0184f7281",
+      "spotifyTrackUri": "spotify:track:1hN16Iy4yxIj4gIzhzeQ6K",
+      "isrc": "FR2R01700360",
+      "title": "My Face",
+      "artists": [
+        "Biga*Ranx"
+      ],
+      "originalYear": 2017,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "b2738bf9-97d0-4231-b725-bdc85076e05e"
+    },
+    {
+      "id": "glc-549a636c73",
+      "spotifyTrackUri": "spotify:track:7yFvSYKk3g5g8e7Ffl16ws",
+      "isrc": "USIR27700016",
+      "title": "Three Little Birds",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "33b9b9fd-15a1-4e1f-a10a-3d15df5e58f0"
+    },
+    {
+      "id": "glc-cfa2a8cf44",
+      "spotifyTrackUri": "spotify:track:65DbTqJKhbwqYbZ1Okr0rc",
+      "isrc": "USSM12504190",
+      "title": "Choosin' Texas",
+      "artists": [
+        "Ella Langley"
+      ],
+      "originalYear": 2025,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f952e3d7-b321-4b76-ab12-e6f6b864ca19"
+    },
+    {
+      "id": "glc-861af35924",
+      "spotifyTrackUri": "spotify:track:5tWPG0AU9LVjONRofHcLD0",
+      "isrc": "GBJCP0900421",
+      "title": "Far from Any Road",
+      "artists": [
+        "The Handsome Family"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "20e79b15-180a-4d0b-827f-5a61709a9b2b"
+    },
+    {
+      "id": "glc-ba1f786e1b",
+      "spotifyTrackUri": "spotify:track:4w3tQBXhn5345eUXDGBWZG",
+      "isrc": "USRN19400384",
+      "title": "9 to 5",
+      "artists": [
+        "Dolly Parton"
+      ],
+      "originalYear": 1980,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "f989fa05-7e2b-4e88-8a95-b5d68480b539"
+    },
+    {
+      "id": "glc-6174bc1b90",
+      "spotifyTrackUri": "spotify:track:2qPQcfUgizNDOIv1orkTAd",
+      "isrc": "USAT22503114",
+      "title": "Bloodline",
+      "artists": [
+        "Alex Warren",
+        "Jelly Roll"
+      ],
+      "originalYear": 2025,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e36bf6e6-3383-4cd3-91f5-72b729b7b469"
+    },
+    {
+      "id": "glc-c1a0790156",
+      "spotifyTrackUri": "spotify:track:36idurZmYRjJ56KQ8JD9bN",
+      "isrc": "QZJ842603468",
+      "title": "Boston",
+      "artists": [
+        "STELLA LEFTY"
+      ],
+      "originalYear": 2026,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "34666c26-a563-4644-9040-734dbdc6e223"
+    },
+    {
+      "id": "glc-cc7fe40eec",
+      "spotifyTrackUri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
+      "isrc": "USUM71418088",
+      "title": "Tennessee Whiskey",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "originalYear": 2015,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "a6f69eb9-da2e-4b4e-ab78-69fa9f75d6b6"
+    },
+    {
+      "id": "glc-fd41fca915",
+      "spotifyTrackUri": "spotify:track:7LWcUluagGJ1Zt0oG9KlmD",
+      "isrc": "USAT22601563",
+      "title": "Kingdom of Fear",
+      "artists": [
+        "Cameron Whitcomb"
+      ],
+      "originalYear": 2025,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "92fe9d4f-939f-4ece-872a-a0fa94b5b3a5"
+    },
+    {
+      "id": "glc-73f3c7e124",
+      "spotifyTrackUri": "spotify:track:35PKfoynRpVFoAUE3D5Kc6",
+      "isrc": "IEACJ1400146",
+      "title": "Work Song",
+      "artists": [
+        "Hozier"
+      ],
+      "originalYear": 2014,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "880fd269-7209-4b26-9c3f-87de7173ebb2"
+    },
+    {
+      "id": "glc-0c9e3a0def",
+      "spotifyTrackUri": "spotify:track:6Zw0NBdfr1VlVJjDRFwUe1",
+      "isrc": "FR47Q0704320",
+      "title": "Jimmy",
+      "artists": [
+        "Moriarty"
+      ],
+      "originalYear": 2007,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "984df1b8-1799-4ee4-aaf1-a919784e9d76"
+    },
+    {
+      "id": "glc-d4d6ba61f5",
+      "spotifyTrackUri": "spotify:track:7qH9Z4dJEN0l9bidizW7fq",
+      "isrc": "TCACI1562836",
+      "title": "Anchor",
+      "artists": [
+        "Novo Amor"
+      ],
+      "originalYear": 2017,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "939d3fd8-0b45-4667-a3b4-703ed6eb184a"
+    },
+    {
+      "id": "glc-22512bc922",
+      "spotifyTrackUri": "spotify:track:4sDbdBjuYQVdNNB4PiHUPo",
+      "isrc": "AUGSG1600007",
+      "title": "Coastline",
+      "artists": [
+        "Hollow Coves"
+      ],
+      "originalYear": 2017,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "2e40124e-754e-44c0-985b-6dbafd0505ad"
+    },
+    {
+      "id": "glc-31f2d31f89",
+      "spotifyTrackUri": "spotify:track:792FHkvZbBQuWWM1a4TfL8",
+      "isrc": "USAT22314248",
+      "title": "Before You Leave Me",
+      "artists": [
+        "Alex Warren"
+      ],
+      "originalYear": 2024,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "pop",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "4071b038-3376-415a-abc1-91f6388fc962"
+    },
+    {
+      "id": "glc-15761b05c2",
+      "spotifyTrackUri": "spotify:track:7mjSHL2Eb0kAwiKbvNNyD9",
+      "isrc": "GBUM71905965",
+      "title": "Wild World",
+      "artists": [
+        "Yusuf / Cat Stevens"
+      ],
+      "originalYear": 1970,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "9926dec3-5842-457d-81ba-717484600b3e"
+    },
+    {
+      "id": "glc-e8bc19613a",
+      "spotifyTrackUri": "spotify:track:14AyWf6y7KlWWLfAjdKMKI",
+      "isrc": "USDMG1673802",
+      "title": "Ophelia",
+      "artists": [
+        "The Lumineers"
+      ],
+      "originalYear": 2016,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "5913b554-e0b5-4e37-aa95-18cb1515390a"
+    },
+    {
+      "id": "glc-c91b52469b",
+      "spotifyTrackUri": "spotify:track:6pWlv50Lthad8jyd6f1TlC",
+      "isrc": "QZWFP2367225",
+      "title": "Harpy Hare",
+      "artists": [
+        "Yaelokre"
+      ],
+      "originalYear": 2023,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "895f12c0-44b6-4648-b264-ab716f4b1246"
+    },
+    {
+      "id": "glc-ec5d9b5e76",
+      "spotifyTrackUri": "spotify:track:0mflMxspEfB0VbI1kyLiAv",
+      "isrc": "USUM72212470",
+      "title": "Stick Season",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "originalYear": 2022,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "236ccab4-fc8a-4e18-8e85-317340ae78b6"
+    },
+    {
+      "id": "glc-f6e74119f5",
+      "spotifyTrackUri": "spotify:track:5y788ya4NvwhBznoDIcXwK",
+      "isrc": "USSM16401419",
+      "title": "The Sound of Silence - Acoustic Version",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "originalYear": 1964,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "ddfb4085-e87c-4b38-9ae6-e579f8a7e20e"
+    },
+    {
+      "id": "glc-cdc557aeca",
+      "spotifyTrackUri": "spotify:track:3jQyadhLTxpxadQlkFh2b8",
+      "isrc": "SEVVX0300201",
+      "title": "Heartbeats",
+      "artists": [
+        "José González"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd"
+    },
+    {
+      "id": "glc-e039ddd7aa",
+      "spotifyTrackUri": "spotify:track:7uWFUpGuEfmxYeymkV95jn",
+      "isrc": "GBAJE7200780",
+      "title": "Time in a Bottle",
+      "artists": [
+        "Jim Croce"
+      ],
+      "originalYear": 1972,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "rock",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "3923c6d6-790a-4879-803c-e7186e1620b7"
+    },
+    {
+      "id": "glc-18b1125f82",
+      "spotifyTrackUri": "spotify:track:7kuOhBGsXjpwvLRQCDAPAJ",
+      "isrc": "CAN111400230",
+      "title": "September Fields",
+      "artists": [
+        "Frazey Ford"
+      ],
+      "originalYear": 2014,
+      "difficulty": "hard",
+      "language": "fr",
+      "genre": "variete_internationale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "musicbrainz",
+      "musicbrainzRecordingId": "35a8b38f-bbb1-4c29-ae3b-07e3c8003cdb"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generatedAt": "2026-11-10T11:57:48Z",
+  "generatedAt": "2026-11-16T21:19:52Z",
   "packs": [
     {
       "id": "generaliste",
@@ -9,6 +9,22 @@
       "cardCount": 837,
       "url": "https://marissooz.github.io/catalogue/packs/generaliste-v1.json",
       "checksum": "afb92a0372b0a5c3a12ead0e10777d78bafa9512c81cc720ea2cc0f4fcc0a1c7"
+    },
+    {
+      "id": "classique",
+      "name": "Musique classique",
+      "version": 1,
+      "cardCount": 116,
+      "url": "https://marissooz.github.io/catalogue/packs/classique-v1.json",
+      "checksum": "07b13cb458f1b80cdc56214b64925558cbff99d2a0313c43c88955991eb94f32"
+    },
+    {
+      "id": "films-series",
+      "name": "Musiques de films et séries",
+      "version": 2,
+      "cardCount": 91,
+      "url": "https://marissooz.github.io/catalogue/packs/films-series-v1.json",
+      "checksum": "1b0c8df3dfb3dd5eb50ea0440da2565adda0785a66842d28721cf7583f1232c1"
     }
   ]
 }

@@ -1,0 +1,2684 @@
+{
+  "id": "classique",
+  "name": "Musique classique",
+  "version": 1,
+  "checksum": "611ab4b060cfcdf7893eb056307295936dfc9ea70ebc3e863f3a1341bbf32f86",
+  "cards": [
+    {
+      "id": "cla2-ce56879644",
+      "spotifyTrackUri": "spotify:track:712Pm7DCa8lL8dGZ7LdXQS",
+      "isrc": "GBAYC8804957",
+      "title": "Canon de Pachelbel",
+      "artists": [
+        "Johann Pachelbel",
+        "Sir Neville Marriner",
+        "Academy of St. Martin in the Fields"
+      ],
+      "originalYear": 1680,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-922d62c338",
+      "spotifyTrackUri": "spotify:track:5a7TTN4nMONsd11zCJgqGP",
+      "isrc": "FRZ148813020",
+      "title": "Te Deum (Prélude)",
+      "artists": [
+        "Marc-Antoine Charpentier",
+        "Les Arts Florissants",
+        "William Christie"
+      ],
+      "originalYear": 1692,
+      "difficulty": "easy",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ebd1f571ed",
+      "spotifyTrackUri": "spotify:track:4mR9V5yN1hwrrPOw24yrqC",
+      "isrc": "FRZ208207000",
+      "title": "Toccata et fugue en ré mineur",
+      "artists": [
+        "Jean-Sébastien Bach",
+        "Marie-Claire Alain"
+      ],
+      "originalYear": 1707,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-dc72056b56",
+      "spotifyTrackUri": "spotify:track:6GjMya5Sb5olxGC2H5G3ni",
+      "isrc": "USSM16801465",
+      "title": "Jésus que ma joie demeure",
+      "artists": [
+        "Jean-Sébastien Bach",
+        "Eugene Ormandy",
+        "The Philadelphia Orchestra"
+      ],
+      "originalYear": 1723,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-64baba0c09",
+      "spotifyTrackUri": "spotify:track:17i5jLpzndlQhbS4SrTd0B",
+      "isrc": "USSM18200515",
+      "title": "Suite pour violoncelle n° 1 (Prélude)",
+      "artists": [
+        "Jean-Sébastien Bach",
+        "Yo-Yo Ma"
+      ],
+      "originalYear": 1723,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-3f8b46ac62",
+      "spotifyTrackUri": "spotify:track:3RUBMVfbweULyfoVMXTOLV",
+      "isrc": "GBAYC8300405",
+      "title": "Les Quatre Saisons",
+      "artists": [
+        "Antonio Vivaldi",
+        "Itzhak Perlman",
+        "Israel Philharmonic Orchestra"
+      ],
+      "originalYear": 1725,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-d1d9b9355f",
+      "spotifyTrackUri": "spotify:track:6t7lMFHSifu9j8NPMNCv9T",
+      "isrc": "DEF058902770",
+      "title": "Air sur la corde de sol",
+      "artists": [
+        "Jean-Sébastien Bach",
+        "Orpheus Chamber Orchestra"
+      ],
+      "originalYear": 1730,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-dcebc5b9d2",
+      "spotifyTrackUri": "spotify:track:4TNCQyG2gmepsGoeLdRKn4",
+      "isrc": "GBF077641531",
+      "title": "Hallelujah (Le Messie)",
+      "artists": [
+        "Georg Friedrich Haendel",
+        "Academy of St Martin in the Fields Chorus",
+        "Academy of St. Martin in the Fields",
+        "Sir Neville Marriner"
+      ],
+      "originalYear": 1741,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-660f57aa83",
+      "spotifyTrackUri": "spotify:track:6GHvHil3Bl7JvqjT6dureL",
+      "isrc": "DEF058401950",
+      "title": "L'Arrivée de la reine de Saba",
+      "artists": [
+        "Georg Friedrich Haendel",
+        "The English Concert",
+        "Trevor Pinnock"
+      ],
+      "originalYear": 1748,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-510ef7299a",
+      "spotifyTrackUri": "spotify:track:78U6Exl7TAi8HW1nXcbL3e",
+      "isrc": "DEN962136201",
+      "title": "Ah ! vous dirai-je, maman",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Jan Lisiecki"
+      ],
+      "originalYear": 1782,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-003ac4c86d",
+      "spotifyTrackUri": "spotify:track:1iR34ZbPs3eFniMpnrHI6s",
+      "isrc": "GBF078010223",
+      "title": "Marche turque",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "András Schiff"
+      ],
+      "originalYear": 1783,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla-687868dc8f",
+      "spotifyTrackUri": "spotify:track:41DgVxYah1Ma8g68S6C7H5",
+      "isrc": "FRZ178401450",
+      "title": "Une petite musique de nuit",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Pro Arte Orchester München",
+        "Kurt Redel"
+      ],
+      "originalYear": 1787,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a54d61005e",
+      "spotifyTrackUri": "spotify:track:5Qx7BlOgNtzSj4FMix11ST",
+      "isrc": "DESR71302105",
+      "title": "Symphonie n° 40",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Berliner Philharmoniker",
+        "Sir Simon Rattle"
+      ],
+      "originalYear": 1788,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ba6665281a",
+      "spotifyTrackUri": "spotify:track:4YQdQIqi9asDO5WmuBmVrJ",
+      "isrc": "DEC628600585",
+      "title": "La Flûte enchantée (Air de la Reine de la nuit)",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Wolfgang Sawallisch",
+        "Edda Moser",
+        "Orchester der Bayerischen Staatsoper München"
+      ],
+      "originalYear": 1791,
+      "difficulty": "easy",
+      "language": "de",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2f81c5c463",
+      "spotifyTrackUri": "spotify:track:3hj6jHDmZfoQdukMi6bWF6",
+      "isrc": "USA371283528",
+      "title": "Requiem (Lacrimosa)",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Jordi Savall",
+        "Le Concert Des Nations"
+      ],
+      "originalYear": 1791,
+      "difficulty": "easy",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-e55858c2df",
+      "spotifyTrackUri": "spotify:track:5RzYTJFcLgqsk0623rxp71",
+      "isrc": "HKI191516201",
+      "title": "Sonate Pathétique",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Boris Giltburg"
+      ],
+      "originalYear": 1799,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2c50ecd3dd",
+      "spotifyTrackUri": "spotify:track:40gRh2ZURv5tYBo8yB9Lu3",
+      "isrc": "FRZ140632090",
+      "title": "Sonate au clair de lune",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Paul Lewis"
+      ],
+      "originalYear": 1801,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-bf2572963e",
+      "spotifyTrackUri": "spotify:track:02EjNQRJohFLY4NaXiFdH1",
+      "isrc": "DEF057401772",
+      "title": "Symphonie n° 5",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Wiener Philharmoniker",
+        "Carlos Kleiber"
+      ],
+      "originalYear": 1808,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-b145b6786f",
+      "spotifyTrackUri": "spotify:track:0H2VhGUC3P3hvwz8rdGIpC",
+      "isrc": "DEN961801800",
+      "title": "Lettre à Élise",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Lang Lang"
+      ],
+      "originalYear": 1810,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-eddd33c850",
+      "spotifyTrackUri": "spotify:track:79RYNk7I1YDy4RLPamenAn",
+      "isrc": "DEF058301501",
+      "title": "Symphonie n° 7 (Allegretto)",
+      "artists": [
+        "Ludwig van Beethoven",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1812,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-77337cbc77",
+      "spotifyTrackUri": "spotify:track:457Bpigp9EnWaPjmRcMz0U",
+      "isrc": "GBAYC1401595",
+      "title": "Le Barbier de Séville (Ouverture)",
+      "artists": [
+        "Gioachino Rossini",
+        "Herbert von Karajan",
+        "Philharmonia Orchestra"
+      ],
+      "originalYear": 1816,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-73a9ced8c9",
+      "spotifyTrackUri": "spotify:track:6FTbcEZRjgwGgLKPZjSXHc",
+      "isrc": "SEWDL9750025",
+      "title": "Symphonie n° 9 (Ode à la joie)",
+      "artists": [
+        "Ludwig van Beethoven",
+        "London Philharmonic Choir",
+        "The London Chorus",
+        "David Parry",
+        "London Philharmonic Orchestra"
+      ],
+      "originalYear": 1824,
+      "difficulty": "easy",
+      "language": "de",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla-08ef225069",
+      "spotifyTrackUri": "spotify:track:4THEVi98vHQXZeGji7oy15",
+      "isrc": "FR50X0304407",
+      "title": "Ave Maria (Schubert)",
+      "artists": [
+        "Franz Schubert",
+        "Arthur Schoonderwoerd",
+        "Johannette Zomer"
+      ],
+      "originalYear": 1825,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-47b8015d98",
+      "spotifyTrackUri": "spotify:track:3j01GIGm0LYSzbO7X0NfYM",
+      "isrc": "GB01A0700642",
+      "title": "Ouverture de Guillaume Tell",
+      "artists": [
+        "Gioachino Rossini",
+        "Royal Philharmonic Orchestra",
+        "Philip Ellis"
+      ],
+      "originalYear": 1829,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-9a3ec06119",
+      "spotifyTrackUri": "spotify:track:5Ta6yq3E3LlGEi9dHVf9BM",
+      "isrc": "GBAJY0437104",
+      "title": "Nocturne op. 9 n° 2",
+      "artists": [
+        "Frédéric Chopin",
+        "Angela Hewitt"
+      ],
+      "originalYear": 1832,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-82ecd4f084",
+      "spotifyTrackUri": "spotify:track:5BijFryhTEnghWx91jYoVR",
+      "isrc": "USBC19801116",
+      "title": "Fantaisie-impromptu",
+      "artists": [
+        "Frédéric Chopin",
+        "Arthur Rubinstein"
+      ],
+      "originalYear": 1834,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-dec993712d",
+      "spotifyTrackUri": "spotify:track:6JoT2QRzUZ8IpkamI6WkeN",
+      "isrc": "GBAYC9101320",
+      "title": "Marche funèbre (Sonate n° 2)",
+      "artists": [
+        "Frédéric Chopin",
+        "Leif Ove Andsnes"
+      ],
+      "originalYear": 1839,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-afbe95411b",
+      "spotifyTrackUri": "spotify:track:7eITzwuOcf14wfeg0mP1HX",
+      "isrc": "DEF059232101",
+      "title": "Marche nuptiale",
+      "artists": [
+        "Felix Mendelssohn",
+        "Boston Symphony Orchestra",
+        "Seiji Ozawa"
+      ],
+      "originalYear": 1842,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-04987fcab7",
+      "spotifyTrackUri": "spotify:track:4Gjn2xoEw001ZaYKz76s7T",
+      "isrc": "DEN960901400",
+      "title": "Valse du Minute",
+      "artists": [
+        "Frédéric Chopin",
+        "Alice Sara Ott"
+      ],
+      "originalYear": 1847,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-9922694ab1",
+      "spotifyTrackUri": "spotify:track:0FGmVOBDjWtP3UFkvtssew",
+      "isrc": "GBAYC8904383",
+      "title": "Lohengrin (Marche nuptiale)",
+      "artists": [
+        "Richard Wagner",
+        "Bernard Haitink",
+        "Chorus of the Royal Opera House, Covent Garden",
+        "Orchestra of the Royal Opera House, Covent Garden"
+      ],
+      "originalYear": 1848,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-5c0fb5dde0",
+      "spotifyTrackUri": "spotify:track:5jQSW0wrI0AYMfhUraalHS",
+      "isrc": "DEF058001290",
+      "title": "Marche de Radetzky",
+      "artists": [
+        "Johann Strauss père",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1848,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-0d98cfa48b",
+      "spotifyTrackUri": "spotify:track:7CIoJE0JfVFcmmUY3fFojH",
+      "isrc": "USBC15300135",
+      "title": "Rhapsodie hongroise n° 2",
+      "artists": [
+        "Franz Liszt",
+        "Vladimir Horowitz"
+      ],
+      "originalYear": 1851,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-98c2427753",
+      "spotifyTrackUri": "spotify:track:50KVOLNNqft8SJr5ybrv8G",
+      "isrc": "GBF077130101",
+      "title": "Rigoletto (La donna è mobile)",
+      "artists": [
+        "Giuseppe Verdi",
+        "Luciano Pavarotti",
+        "London Symphony Orchestra",
+        "Richard Bonynge"
+      ],
+      "originalYear": 1851,
+      "difficulty": "easy",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-f6e9545522",
+      "spotifyTrackUri": "spotify:track:0PK7UQDHZY3Y37YJ7WKMUu",
+      "isrc": "GBAYC2400906",
+      "title": "Ave Maria (Bach/Gounod)",
+      "artists": [
+        "Charles Gounod",
+        "Jean-Sébastien Bach"
+      ],
+      "originalYear": 1853,
+      "difficulty": "easy",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-eb09076c53",
+      "spotifyTrackUri": "spotify:track:41ujv4mhxlqR8nlnieDpDp",
+      "isrc": "DEF057730030",
+      "title": "La Traviata (Libiamo)",
+      "artists": [
+        "Giuseppe Verdi",
+        "Ileana Cotrubas",
+        "Plácido Domingo",
+        "Chor der Bayerischen Staatsoper",
+        "Bavarian State Orchestra",
+        "Carlos Kleiber"
+      ],
+      "originalYear": 1853,
+      "difficulty": "easy",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4dbaf6ff89",
+      "spotifyTrackUri": "spotify:track:1Oy6ZNlKSzP1Tf6XxovDyG",
+      "isrc": "GBAYC9100962",
+      "title": "La Chevauchée des Walkyries",
+      "artists": [
+        "Richard Wagner",
+        "Mariss Jansons",
+        "Oslo Philharmonic Orchestra"
+      ],
+      "originalYear": 1856,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-debf0c4f29",
+      "spotifyTrackUri": "spotify:track:6SFjcqXxB0AkfLsgHhCKuz",
+      "isrc": "SEWDL9657606",
+      "title": "Le Can-can (Orphée aux enfers)",
+      "artists": [
+        "Jacques Offenbach",
+        "Frank Shipway",
+        "Royal Philharmonic Orchestra"
+      ],
+      "originalYear": 1858,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a3c4edd11d",
+      "spotifyTrackUri": "spotify:track:4J0e4gEqaLQlG5EM0wws1K",
+      "isrc": "DEF058001370",
+      "title": "Le Beau Danube bleu",
+      "artists": [
+        "Johann Strauss II",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1866,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-5b089318fa",
+      "spotifyTrackUri": "spotify:track:3VlXTyJyEKnWDBYYcEqy80",
+      "isrc": "USQX91500812",
+      "title": "Berceuse de Brahms",
+      "artists": [
+        "Johannes Brahms",
+        "Yo-Yo Ma",
+        "Kathryn Stott"
+      ],
+      "originalYear": 1868,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-d16a44e76f",
+      "spotifyTrackUri": "spotify:track:0lWTCcCmtRcTW14UcANaAj",
+      "isrc": "GBAYC0203866",
+      "title": "Concerto pour piano",
+      "artists": [
+        "Edvard Grieg",
+        "Leif Ove Andsnes",
+        "Mariss Jansons",
+        "Berliner Philharmoniker"
+      ],
+      "originalYear": 1868,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4e63ccbd26",
+      "spotifyTrackUri": "spotify:track:2oLjhx7w8Hyd3gry9cCXr7",
+      "isrc": "DEF058230904",
+      "title": "Danse hongroise n° 5",
+      "artists": [
+        "Johannes Brahms",
+        "Wiener Philharmoniker",
+        "Claudio Abbado"
+      ],
+      "originalYear": 1869,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ecff1ed940",
+      "spotifyTrackUri": "spotify:track:5IQ56UTpOfAbrTWFoZ6Gxn",
+      "isrc": "DEF059404281",
+      "title": "Concerto pour piano n° 1",
+      "artists": [
+        "Piotr Ilitch Tchaïkovski",
+        "Martha Argerich",
+        "Berliner Philharmoniker",
+        "Claudio Abbado"
+      ],
+      "originalYear": 1875,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-79225058ce",
+      "spotifyTrackUri": "spotify:track:2r1FiNXh5mDNEP8K07YRVp",
+      "isrc": "GBAYC9701432",
+      "title": "Habanera (Carmen)",
+      "artists": [
+        "Georges Bizet",
+        "Maria Callas",
+        "Orchestre de l'Opéra national de Paris",
+        "Georges Prêtre",
+        "Orchestre du Théâtre National de l'Opéra de Paris"
+      ],
+      "originalYear": 1875,
+      "difficulty": "easy",
+      "language": "fr",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-90b2d54440",
+      "spotifyTrackUri": "spotify:track:0uwZp9OFoamxWoyeUNfF7W",
+      "isrc": "DEF058200614",
+      "title": "Peer Gynt (Dans l'antre du roi de la montagne)",
+      "artists": [
+        "Edvard Grieg",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1875,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-8aa70f72a9",
+      "spotifyTrackUri": "spotify:track:1TQ2UYCN7nhfj3cfcFC76V",
+      "isrc": "DEF057801272",
+      "title": "Le Lac des cygnes",
+      "artists": [
+        "Piotr Ilitch Tchaïkovski",
+        "Berliner Philharmoniker",
+        "Mstislav Rostropovich"
+      ],
+      "originalYear": 1876,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4fe7a90daa",
+      "spotifyTrackUri": "spotify:track:1uRbdaivScgsQwmgL8Gh4o",
+      "isrc": "USSM16201369",
+      "title": "Ouverture 1812",
+      "artists": [
+        "Piotr Ilitch Tchaïkovski",
+        "Leonard Bernstein",
+        "New York Philharmonic"
+      ],
+      "originalYear": 1880,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ddd191fafc",
+      "spotifyTrackUri": "spotify:track:5NGtFXVpXSvwunEIGeviY3",
+      "isrc": "USSM11509437",
+      "title": "Gymnopédie n° 1",
+      "artists": [
+        "Erik Satie",
+        "Philippe Entremont"
+      ],
+      "originalYear": 1888,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-401117586f",
+      "spotifyTrackUri": "spotify:track:5Dh2C5Dhy5tyx6EGNCMkPq",
+      "isrc": "GBAYC1800488",
+      "title": "Clair de lune",
+      "artists": [
+        "Claude Debussy",
+        "Alexandre Tharaud"
+      ],
+      "originalYear": 1890,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-87184567af",
+      "spotifyTrackUri": "spotify:track:1oDAFTOXZGSQedBa6hXGhT",
+      "isrc": "GBAYC1000878",
+      "title": "Casse-Noisette (Danse de la fée Dragée)",
+      "artists": [
+        "Piotr Ilitch Tchaïkovski",
+        "Sir Simon Rattle",
+        "Berliner Philharmoniker"
+      ],
+      "originalYear": 1892,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4f5455b408",
+      "spotifyTrackUri": "spotify:track:1e6trFi8oxi8goRZpViKZr",
+      "isrc": "DEF058500231",
+      "title": "Symphonie du Nouveau Monde",
+      "artists": [
+        "Antonín Dvořák",
+        "Wiener Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1893,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-5d7d8fefa1",
+      "spotifyTrackUri": "spotify:track:43YwOmGUOS3zzGvj1Feszb",
+      "isrc": "DEF057301701",
+      "title": "Ainsi parlait Zarathoustra",
+      "artists": [
+        "Richard Strauss",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1896,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-c8657bc764",
+      "spotifyTrackUri": "spotify:track:2TGCBeD1gcofzUjdyuTSlF",
+      "isrc": "FRZ207101739",
+      "title": "L'Apprenti sorcier",
+      "artists": [
+        "Paul Dukas",
+        "Jean Martinon",
+        "Orchestre National de l'O.R.T.F."
+      ],
+      "originalYear": 1897,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla-ea26d14597",
+      "spotifyTrackUri": "spotify:track:4TNtqBfDsakB6Lwt90DV5A",
+      "isrc": "USBC16800319",
+      "title": "Le Vol du bourdon",
+      "artists": [
+        "Nikolaï Rimski-Korsakov",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "originalYear": 1900,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-966672582d",
+      "spotifyTrackUri": "spotify:track:78k57V2uo6Sm72j1H7Ih14",
+      "isrc": "GBAYC1400387",
+      "title": "O mio babbino caro",
+      "artists": [
+        "Giacomo Puccini",
+        "Maria Callas",
+        "Tullio Serafin",
+        "Philharmonia Orchestra"
+      ],
+      "originalYear": 1918,
+      "difficulty": "easy",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla-3b658b8b1f",
+      "spotifyTrackUri": "spotify:track:7oB0QBEnGRIJjvlDc8YnM6",
+      "isrc": "USSM15901418",
+      "title": "Rhapsody in Blue",
+      "artists": [
+        "George Gershwin",
+        "Columbia Symphony Orchestra",
+        "Leonard Bernstein"
+      ],
+      "originalYear": 1924,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-97850c83b2",
+      "spotifyTrackUri": "spotify:track:3uX11UryFh2ujpeZBWYgkv",
+      "isrc": "GBF077230201",
+      "title": "Nessun dorma (Turandot)",
+      "artists": [
+        "Giacomo Puccini",
+        "Luciano Pavarotti",
+        "John Alldis Choir",
+        "Wandsworth School Boys Choir",
+        "London Philharmonic Orchestra",
+        "Zubin Mehta"
+      ],
+      "originalYear": 1926,
+      "difficulty": "easy",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-e0e454dbbd",
+      "spotifyTrackUri": "spotify:track:3KtsRijwp8KunCRYlOdWEi",
+      "isrc": "GBCRW8524302",
+      "title": "Boléro",
+      "artists": [
+        "Maurice Ravel",
+        "London Symphony Orchestra"
+      ],
+      "originalYear": 1928,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-eac85f773d",
+      "spotifyTrackUri": "spotify:track:7HSs4srn1qnZhh7WRWBVOk",
+      "isrc": "GBAYC8700388",
+      "title": "Roméo et Juliette (Danse des chevaliers)",
+      "artists": [
+        "Sergueï Prokofiev",
+        "André Previn",
+        "London Symphony Orchestra"
+      ],
+      "originalYear": 1935,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-448e994559",
+      "spotifyTrackUri": "spotify:track:6xez71zpAqQ6N5i8E1jHlD",
+      "isrc": "USSM19928511",
+      "title": "O Fortuna (Carmina Burana)",
+      "artists": [
+        "Carl Orff",
+        "Michael Tilson Thomas",
+        "The Cleveland Orchestra Chorus",
+        "The Cleveland Orchestra"
+      ],
+      "originalYear": 1936,
+      "difficulty": "easy",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla-9de60ee65e",
+      "spotifyTrackUri": "spotify:track:0uY9gVVGjH9yndXS8DCqkr",
+      "isrc": "GBAYC1502060",
+      "title": "Pierre et le loup",
+      "artists": [
+        "Sergueï Prokofiev",
+        "Itzhak Perlman",
+        "Zubin Mehta",
+        "Israel Philharmonic Orchestra"
+      ],
+      "originalYear": 1936,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-37759ffc09",
+      "spotifyTrackUri": "spotify:track:4htiKcp9hnv12epPPsEuIL",
+      "isrc": "ES5709904726",
+      "title": "Concerto d'Aranjuez",
+      "artists": [
+        "Joaquín Rodrigo",
+        "Paco de Lucía",
+        "Orquesta De Cadaques",
+        "Edmon Colomer"
+      ],
+      "originalYear": 1939,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-e7aaeebdf2",
+      "spotifyTrackUri": "spotify:track:73PBONpgMZ7UABAKZGYDkz",
+      "isrc": "FRZ209901310",
+      "title": "Danse du sabre",
+      "artists": [
+        "Aram Khatchatourian",
+        "Alexander Lazarev",
+        "Bolshoi Symphony Orchestra"
+      ],
+      "originalYear": 1942,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-b93556c7f0",
+      "spotifyTrackUri": "spotify:track:2flSSpi2qM2N8NoWSRKjBB",
+      "isrc": "FRZ207704500",
+      "title": "Adagio d'Albinoni",
+      "artists": [
+        "Tomaso Albinoni",
+        "Remo Giazotto",
+        "Claudio Scimone"
+      ],
+      "originalYear": 1958,
+      "difficulty": "easy",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-6d5a45920a",
+      "spotifyTrackUri": "spotify:track:6x1xxlk6Dw1IdzvrzsL7B3",
+      "isrc": "FRZ141534120",
+      "title": "Water Music",
+      "artists": [
+        "Georg Friedrich Haendel",
+        "Akademie für Alte Musik Berlin"
+      ],
+      "originalYear": 1717,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-1fc6802e03",
+      "spotifyTrackUri": "spotify:track:4ia12bEZiu5Z8yjFLeJJSK",
+      "isrc": "DEN960331815",
+      "title": "Les Indes galantes (Danse des sauvages)",
+      "artists": [
+        "Jean-Philippe Rameau",
+        "Les Musiciens du Louvre",
+        "Marc Minkowski"
+      ],
+      "originalYear": 1735,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-b442b82637",
+      "spotifyTrackUri": "spotify:track:3MGdBHevIGU82NqTM2S1PF",
+      "isrc": "DEF059203740",
+      "title": "Menuet de Boccherini",
+      "artists": [
+        "Luigi Boccherini",
+        "Orpheus Chamber Orchestra"
+      ],
+      "originalYear": 1771,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-08ea3f2e3c",
+      "spotifyTrackUri": "spotify:track:2JJ6BzUI5LpRa0gmBPSG7k",
+      "isrc": "DEF057401311",
+      "title": "Concerto pour piano n° 21 (Elvira Madigan)",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Friedrich Gulda",
+        "Wiener Philharmoniker",
+        "Claudio Abbado"
+      ],
+      "originalYear": 1785,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-486bbbe313",
+      "spotifyTrackUri": "spotify:track:23if4cvw0UI7c8Uc5OOvss",
+      "isrc": "USSJ10901505",
+      "title": "Les Noces de Figaro (Ouverture)",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "London Philharmonic Orchestra",
+        "Alfred Scholz"
+      ],
+      "originalYear": 1786,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a308b3e09a",
+      "spotifyTrackUri": "spotify:track:6Uz7LH8EheWtDs9ZKVmj2p",
+      "isrc": "FRZ209410400",
+      "title": "Ave verum corpus",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "William Christie",
+        "Les Arts Florissants"
+      ],
+      "originalYear": 1791,
+      "difficulty": "medium",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-9fcccaf162",
+      "spotifyTrackUri": "spotify:track:2fYOyayT80ysO3nxw9lKXn",
+      "isrc": "GBAYC9803207",
+      "title": "Concerto pour clarinette (Adagio)",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Sabine Meyer",
+        "Berliner Philharmoniker",
+        "Claudio Abbado"
+      ],
+      "originalYear": 1791,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-63e76d7b9e",
+      "spotifyTrackUri": "spotify:track:4MfFuuhxAKpeJhWuViuJVs",
+      "isrc": "DEF058204932",
+      "title": "Symphonie n° 94 « La Surprise »",
+      "artists": [
+        "Joseph Haydn",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1791,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a1bddcbb2e",
+      "spotifyTrackUri": "spotify:track:0hES7IYAQSwBAPXJeLKcGN",
+      "isrc": "GBAYC8802396",
+      "title": "Le Roi des aulnes",
+      "artists": [
+        "Franz Schubert",
+        "Dietrich Fischer-Dieskau",
+        "Gerald Moore"
+      ],
+      "originalYear": 1815,
+      "difficulty": "medium",
+      "language": "de",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-280681277c",
+      "spotifyTrackUri": "spotify:track:6cC6h5E351deEGFd7Kh9uy",
+      "isrc": "GBAYC9902272",
+      "title": "Caprice n° 24",
+      "artists": [
+        "Niccolò Paganini",
+        "Itzhak Perlman"
+      ],
+      "originalYear": 1817,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-48d53f3aec",
+      "spotifyTrackUri": "spotify:track:0H6OomScZst5LmFUPwWwH3",
+      "isrc": "GBF076010260",
+      "title": "Marche militaire n° 1",
+      "artists": [
+        "Franz Schubert",
+        "Wiener Philharmoniker",
+        "Hans Knappertsbusch"
+      ],
+      "originalYear": 1818,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-746cf3861c",
+      "spotifyTrackUri": "spotify:track:2fEbuFSksIThthle3Kj6uj",
+      "isrc": "DEF056400531",
+      "title": "Symphonie inachevée",
+      "artists": [
+        "Franz Schubert",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1822,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-0e25137047",
+      "spotifyTrackUri": "spotify:track:66QUI8mnXnu5ZEGdRVaS8Q",
+      "isrc": "GBDGQ0000704",
+      "title": "Symphonie fantastique (Marche au supplice)",
+      "artists": [
+        "Hector Berlioz",
+        "London Symphony Orchestra",
+        "Sir Colin Davis"
+      ],
+      "originalYear": 1830,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-038d84bc63",
+      "spotifyTrackUri": "spotify:track:4SbAXtlOJ0eCL0XwFVi0Ij",
+      "isrc": "DEF058330101",
+      "title": "Rêverie (Träumerei)",
+      "artists": [
+        "Robert Schumann",
+        "Martha Argerich"
+      ],
+      "originalYear": 1838,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-d6e1f26668",
+      "spotifyTrackUri": "spotify:track:4UPPQcwiQJpmXYirbgicT9",
+      "isrc": "DEF058230622",
+      "title": "Nabucco (Va, pensiero)",
+      "artists": [
+        "Giuseppe Verdi",
+        "Orchester der Deutschen Oper Berlin",
+        "Giuseppe Sinopoli",
+        "Chor der Deutschen Oper Berlin"
+      ],
+      "originalYear": 1841,
+      "difficulty": "medium",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-c3eb90a38b",
+      "spotifyTrackUri": "spotify:track:2u9VGZmVz7Rm01SfDgzcfA",
+      "isrc": "USSM11103277",
+      "title": "Rêve d'amour (Liebesträume n° 3)",
+      "artists": [
+        "Franz Liszt",
+        "Lang Lang"
+      ],
+      "originalYear": 1850,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-7197a62e82",
+      "spotifyTrackUri": "spotify:track:0iKrAuOYnRc01Nx8BPVm4R",
+      "isrc": "DEA809370127",
+      "title": "Les Pêcheurs de perles (Au fond du temple saint)",
+      "artists": [
+        "Georges Bizet",
+        "Carlo Rizzi",
+        "Welsh National Opera Orchestra"
+      ],
+      "originalYear": 1863,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ba46b93b2d",
+      "spotifyTrackUri": "spotify:track:4D6uxPXvvlCvicUJokRop2",
+      "isrc": "FRS181533001",
+      "title": "Aida (Marche triomphale)",
+      "artists": [
+        "Giuseppe Verdi",
+        "Philharmonia Orchestra",
+        "Efrem Kurtz"
+      ],
+      "originalYear": 1871,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-9a8a3da72d",
+      "spotifyTrackUri": "spotify:track:1BLPnUZM0ExLEG0mEVk4SM",
+      "isrc": "DEF058403044",
+      "title": "L'Arlésienne (Farandole)",
+      "artists": [
+        "Georges Bizet",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1872,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-c152690ed5",
+      "spotifyTrackUri": "spotify:track:5nVTC1Df0TNsLvjRvE7MBv",
+      "isrc": "GBACF1823002",
+      "title": "Marche funèbre d'une marionnette",
+      "artists": [
+        "Charles Gounod",
+        "Paul Paray"
+      ],
+      "originalYear": 1872,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a2e9c12310",
+      "spotifyTrackUri": "spotify:track:6WkNAujl93Ho8EebRDmZZy",
+      "isrc": "GBF078010150",
+      "title": "Danse macabre",
+      "artists": [
+        "Camille Saint-Saëns",
+        "Philharmonia Orchestra",
+        "Charles Dutoit"
+      ],
+      "originalYear": 1874,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-57e2004c9b",
+      "spotifyTrackUri": "spotify:track:6cquW73WemPok56XlDWxNy",
+      "isrc": "DEF058300750",
+      "title": "La Moldau",
+      "artists": [
+        "Bedřich Smetana",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1874,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-32e5af01f3",
+      "spotifyTrackUri": "spotify:track:6rG0Fp7v9cOD2pyHXQqIUi",
+      "isrc": "GBAYC8700832",
+      "title": "Requiem de Verdi (Dies Irae)",
+      "artists": [
+        "Giuseppe Verdi",
+        "Riccardo Muti",
+        "Coro Del Teatro Alla Scala Di Milano",
+        "Orchestra del Teatro alla Scala, Milano"
+      ],
+      "originalYear": 1874,
+      "difficulty": "medium",
+      "language": "la",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ddd3fee907",
+      "spotifyTrackUri": "spotify:track:1WXTlGPTfM3tDIXkJdLmAC",
+      "isrc": "DEF057600172",
+      "title": "Tableaux d'une exposition",
+      "artists": [
+        "Modeste Moussorgski",
+        "Chicago Symphony Orchestra",
+        "Carlo Maria Giulini"
+      ],
+      "originalYear": 1874,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-573166e82f",
+      "spotifyTrackUri": "spotify:track:7eZcqCKO2JzDOLe9tsV4jS",
+      "isrc": "GBAYC8602389",
+      "title": "La Danse des heures",
+      "artists": [
+        "Amilcare Ponchielli",
+        "Sir Neville Marriner",
+        "Academy of St. Martin in the Fields"
+      ],
+      "originalYear": 1876,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4341e35dce",
+      "spotifyTrackUri": "spotify:track:3awYQnVBM7GmO3Vt0ZoDWE",
+      "isrc": "DEN960800300",
+      "title": "Barcarolle (Les Contes d'Hoffmann)",
+      "artists": [
+        "Jacques Offenbach",
+        "Anna Netrebko",
+        "Elina Garanca",
+        "PKF – Prague Philharmonia",
+        "Emmanuel Villaume",
+        "Prague Philharmonic Choir"
+      ],
+      "originalYear": 1880,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-79caca0605",
+      "spotifyTrackUri": "spotify:track:25M8AkXKn3GmLTqdc07BcX",
+      "isrc": "GBF071203770",
+      "title": "Lakmé (Duo des fleurs)",
+      "artists": [
+        "Léo Delibes",
+        "Renée Fleming",
+        "Susan Graham",
+        "Philharmonia Orchestra",
+        "Sebastian Lang-Lessing"
+      ],
+      "originalYear": 1882,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-b9fd46c082",
+      "spotifyTrackUri": "spotify:track:0hqqbk7RXNdvWQgFmZdIUH",
+      "isrc": "GBAYC9903708",
+      "title": "Les Patineurs (valse)",
+      "artists": [
+        "Émile Waldteufel",
+        "Willi Boskovsky",
+        "Orchestre National de l'Opéra de Monte-Carlo"
+      ],
+      "originalYear": 1882,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2b0b5e5f78",
+      "spotifyTrackUri": "spotify:track:1o9N9TFhHQRT1XeUaIpPHV",
+      "isrc": "GBLWD1600318",
+      "title": "Le Carnaval des animaux (Le Cygne)",
+      "artists": [
+        "Camille Saint-Saëns",
+        "Neeme Järvi",
+        "Bergen Philharmonic Orchestra",
+        "Louis Lortie",
+        "Hélène Mercier"
+      ],
+      "originalYear": 1886,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2c621efe91",
+      "spotifyTrackUri": "spotify:track:5rPqo5uyPn5MDoJkkiu8Nr",
+      "isrc": "USSM16500340",
+      "title": "Une nuit sur le mont Chauve",
+      "artists": [
+        "Modeste Moussorgski",
+        "Leonard Bernstein",
+        "New York Philharmonic"
+      ],
+      "originalYear": 1886,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-c60c59c7a5",
+      "spotifyTrackUri": "spotify:track:4hB2Mn8sMqHkv9P03fvzuZ",
+      "isrc": "QM6N21725375",
+      "title": "Shéhérazade",
+      "artists": [
+        "Nikolaï Rimski-Korsakov",
+        "New York Philharmonic",
+        "Alan Gilbert",
+        "Lawrence Rock"
+      ],
+      "originalYear": 1888,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-37896370d2",
+      "spotifyTrackUri": "spotify:track:6aDYn2aQT7ES8txKkXodYf",
+      "isrc": "GBAYC9700491",
+      "title": "Cavalleria rusticana (Intermezzo)",
+      "artists": [
+        "Pietro Mascagni",
+        "Mariss Jansons",
+        "Oslo Philharmonic Orchestra"
+      ],
+      "originalYear": 1890,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-9a0451e3c6",
+      "spotifyTrackUri": "spotify:track:4820SC1xnUaabzzYQTDkP2",
+      "isrc": "FRZ140811010",
+      "title": "Gnossienne n° 1",
+      "artists": [
+        "Erik Satie",
+        "Alexandre Tharaud"
+      ],
+      "originalYear": 1890,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-6e77a66b8e",
+      "spotifyTrackUri": "spotify:track:0gavEJ0UzuYXGi69dk8aSy",
+      "isrc": "GBF079110002",
+      "title": "Méditation de Thaïs",
+      "artists": [
+        "Jules Massenet",
+        "Joshua Bell",
+        "Royal Philharmonic Orchestra",
+        "Andrew Litton"
+      ],
+      "originalYear": 1894,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-8fbc74508f",
+      "spotifyTrackUri": "spotify:track:4NXmcUMQauqEtDYDgP0MEi",
+      "isrc": "DEF059905170",
+      "title": "Prélude à l'après-midi d'un faune",
+      "artists": [
+        "Claude Debussy",
+        "Berliner Philharmoniker",
+        "Claudio Abbado",
+        "Emmanuel Pahud"
+      ],
+      "originalYear": 1894,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2d047d44f2",
+      "spotifyTrackUri": "spotify:track:6BywXdPigCH0sgHlJ98kuQ",
+      "isrc": "DEF058400030",
+      "title": "Finlandia",
+      "artists": [
+        "Jean Sibelius",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1899,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-037291aca2",
+      "spotifyTrackUri": "spotify:track:3MRQn2RYo2VLYMoStnLRxu",
+      "isrc": "GBAYC1503749",
+      "title": "Pavane pour une infante défunte",
+      "artists": [
+        "Maurice Ravel",
+        "Bertrand Chamayou"
+      ],
+      "originalYear": 1899,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-f498d5ad89",
+      "spotifyTrackUri": "spotify:track:23ryVoyGTrfO3F0GblIfnz",
+      "isrc": "GBAYC7000097",
+      "title": "Variations Enigma (Nimrod)",
+      "artists": [
+        "Edward Elgar",
+        "London Symphony Orchestra",
+        "Sir Adrian Boult"
+      ],
+      "originalYear": 1899,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-2181219605",
+      "spotifyTrackUri": "spotify:track:5yvj4dLlGRgS727KSO53tZ",
+      "isrc": "DEN960001501",
+      "title": "Concerto pour piano n° 2",
+      "artists": [
+        "Sergueï Rachmaninov",
+        "Krystian Zimerman",
+        "Boston Symphony Orchestra",
+        "Seiji Ozawa"
+      ],
+      "originalYear": 1901,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-d116978d56",
+      "spotifyTrackUri": "spotify:track:6kHGpM6LgJ7Pi3HCynQL4d",
+      "isrc": "DEF058200590",
+      "title": "Pomp and Circumstance n° 1",
+      "artists": [
+        "Edward Elgar",
+        "BBC Symphony Orchestra",
+        "Leonard Bernstein"
+      ],
+      "originalYear": 1901,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4db538e3c0",
+      "spotifyTrackUri": "spotify:track:69EKwvg7nkdOO3RmeUMJZG",
+      "isrc": "GBAYC1400676",
+      "title": "Madame Butterfly (Un bel dì vedremo)",
+      "artists": [
+        "Giacomo Puccini",
+        "Maria Callas",
+        "Herbert von Karajan",
+        "Orchestra del Teatro alla Scala, Milano"
+      ],
+      "originalYear": 1904,
+      "difficulty": "medium",
+      "language": "it",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-4d4cd8d79a",
+      "spotifyTrackUri": "spotify:track:2Jjfe35iaOnuCRzZMhgpU1",
+      "isrc": "DEF056331701",
+      "title": "Le Sacre du printemps",
+      "artists": [
+        "Igor Stravinsky",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1913,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-31a73ab2ba",
+      "spotifyTrackUri": "spotify:track:59Id4KrBWiizuq53doxWtp",
+      "isrc": "DEF058104552",
+      "title": "Les Planètes (Jupiter)",
+      "artists": [
+        "Gustav Holst",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1917,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-456531ee44",
+      "spotifyTrackUri": "spotify:track:7tMaOTu32tb7G2Ieb9ULY8",
+      "isrc": "USSM15901419",
+      "title": "Un Américain à Paris",
+      "artists": [
+        "George Gershwin",
+        "Columbia Symphony Orchestra",
+        "Leonard Bernstein",
+        "New York Philharmonic"
+      ],
+      "originalYear": 1928,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-3ff63ef4f5",
+      "spotifyTrackUri": "spotify:track:299l0c2f2WNnyKU5K8aQ6S",
+      "isrc": "GBAYC0902894",
+      "title": "Adagio pour cordes",
+      "artists": [
+        "Samuel Barber",
+        "Sir Simon Rattle",
+        "Berliner Philharmoniker"
+      ],
+      "originalYear": 1936,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-e21374b15d",
+      "spotifyTrackUri": "spotify:track:5bu9A6uphPWg39RC3ZKeku",
+      "isrc": "USSM11409807",
+      "title": "Variations Goldberg (Aria)",
+      "artists": [
+        "Jean-Sébastien Bach",
+        "Glenn Gould"
+      ],
+      "originalYear": 1741,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-cc07c042bc",
+      "spotifyTrackUri": "spotify:track:7lCqzDWT6GPECGp0TzMnR7",
+      "isrc": "DEF056901930",
+      "title": "La Truite",
+      "artists": [
+        "Franz Schubert",
+        "Dietrich Fischer-Dieskau",
+        "Gerald Moore"
+      ],
+      "originalYear": 1817,
+      "difficulty": "hard",
+      "language": "de",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-1002d1ff39",
+      "spotifyTrackUri": "spotify:track:4CZq7M6hBTg77Qhp3TJHdN",
+      "isrc": "USEXZ1401034",
+      "title": "Pavane",
+      "artists": [
+        "Gabriel Fauré",
+        "San Francisco Symphony",
+        "Michael Tilson Thomas"
+      ],
+      "originalYear": 1887,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-8f9a526cff",
+      "spotifyTrackUri": "spotify:track:3L0SyNok31C6FaFtg0S8yX",
+      "isrc": "GBLWD0804107",
+      "title": "Arabesque n° 1",
+      "artists": [
+        "Claude Debussy",
+        "Jean-Efflam Bavouzet"
+      ],
+      "originalYear": 1891,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-6609f0ce4d",
+      "spotifyTrackUri": "spotify:track:2tddyyRarB5mV5j4wV1otJ",
+      "isrc": "GBAYC8804527",
+      "title": "Humoresque n° 7",
+      "artists": [
+        "Antonín Dvořák",
+        "Moura Lympany"
+      ],
+      "originalYear": 1894,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-54cbf92f9c",
+      "spotifyTrackUri": "spotify:track:7DZSQwp1U13gE7eFEqnhHT",
+      "isrc": "GBAYC1600504",
+      "title": "Souvenirs de l'Alhambra (Recuerdos de la Alhambra)",
+      "artists": [
+        "Francisco Tárrega",
+        "Thibaut García"
+      ],
+      "originalYear": 1896,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.5,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-ff103492c8",
+      "spotifyTrackUri": "spotify:track:1Z1DK8nlqNmV9RywT9QRCB",
+      "isrc": "DEF059302081",
+      "title": "Symphonie n° 5 (Adagietto)",
+      "artists": [
+        "Gustav Mahler",
+        "Berliner Philharmoniker",
+        "Claudio Abbado"
+      ],
+      "originalYear": 1902,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.7,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    },
+    {
+      "id": "cla2-a975a05931",
+      "spotifyTrackUri": "spotify:track:5gqzUMeurunLbIv1RNgSCa",
+      "isrc": "DEF058501761",
+      "title": "La Mer",
+      "artists": [
+        "Claude Debussy",
+        "Berliner Philharmoniker",
+        "Herbert von Karajan"
+      ],
+      "originalYear": 1905,
+      "difficulty": "hard",
+      "language": "en",
+      "genre": "classique",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musique_classique"
+      ],
+      "yearType": "compositionYear",
+      "excludedFromGeneralMix": true
+    }
+  ]
+}

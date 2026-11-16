@@ -1,0 +1,2160 @@
+{
+  "id": "films-series",
+  "name": "Musiques de films et séries",
+  "version": 2,
+  "checksum": "45dc4d0965ce3df0aba5f5211efb8f97df081228e392a7bdbf18c6450f5d2777",
+  "cards": [
+    {
+      "id": "film-0d3a0186e7",
+      "spotifyTrackUri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo",
+      "isrc": "USWD11366376",
+      "title": "Let It Go",
+      "artists": [
+        "Idina Menzel"
+      ],
+      "originalYear": 2013,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Reine des neiges",
+      "director": "Chris Buck"
+    },
+    {
+      "id": "film-dd6be7924d",
+      "spotifyTrackUri": "spotify:track:3Z0oQ8r78OUaHvGPiDBR3W",
+      "isrc": "USWD11994667",
+      "title": "Into the Unknown",
+      "artists": [
+        "Idina Menzel",
+        "AURORA"
+      ],
+      "originalYear": 2019,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Reine des neiges 2",
+      "director": "Chris Buck"
+    },
+    {
+      "id": "film-7cd0af8e9d",
+      "spotifyTrackUri": "spotify:track:6iUE3jSdcD4lrYSSCpUmu0",
+      "isrc": "USWD10321765",
+      "title": "Chim Chim Cher-ee",
+      "artists": [
+        "Dick Van Dyke",
+        "Julie Andrews",
+        "Karen Dotrice",
+        "Matthew Garber"
+      ],
+      "originalYear": 1964,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Mary Poppins",
+      "director": "Robert Stevenson"
+    },
+    {
+      "id": "film-930d34ecfa",
+      "spotifyTrackUri": "spotify:track:7B3UAPLYAbwXVgbHSKEaTw",
+      "isrc": "USLIC0601944",
+      "title": "Beauty and the Beast",
+      "artists": [
+        "Céline Dion",
+        "Peabo Bryson"
+      ],
+      "originalYear": 1991,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Belle et la Bête",
+      "director": "Gary Trousdale"
+    },
+    {
+      "id": "film-9484ea7508",
+      "spotifyTrackUri": "spotify:track:4tS8xQfyPGc7f4lJ1JP6BX",
+      "isrc": "USLIC0500071",
+      "title": "A Whole New World",
+      "artists": [
+        "Peabo Bryson",
+        "Regina Belle"
+      ],
+      "originalYear": 1992,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Aladdin",
+      "director": "Ron Clements"
+    },
+    {
+      "id": "film-49b9903534",
+      "spotifyTrackUri": "spotify:track:4qjrCkcVbsYlitCqbBkeKe",
+      "isrc": "USWD10110149",
+      "title": "Colors of the Wind",
+      "artists": [
+        "Vanessa Williams"
+      ],
+      "originalYear": 1995,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Pocahontas",
+      "director": "Mike Gabriel"
+    },
+    {
+      "id": "film-a27d97412c",
+      "spotifyTrackUri": "spotify:track:5Y1id2NTv2M7x2g2V2q1Sz",
+      "isrc": "USWD10110147",
+      "title": "Reflection",
+      "artists": [
+        "Christina Aguilera"
+      ],
+      "originalYear": 1998,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Mulan",
+      "director": "Barry Cook"
+    },
+    {
+      "id": "film-2d7c54c7b2",
+      "spotifyTrackUri": "spotify:track:3hS5RCp5EE1wUiiE7f8dM1",
+      "isrc": "USSM10411310",
+      "title": "Go the Distance",
+      "artists": [
+        "Michael Bolton"
+      ],
+      "originalYear": 1997,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Hercule",
+      "director": "Ron Clements"
+    },
+    {
+      "id": "film-59a25822ce",
+      "spotifyTrackUri": "spotify:track:4Y8vb1uy9IjM2V1hqvrAid",
+      "isrc": "USWD10110146",
+      "title": "You'll Be in My Heart",
+      "artists": [
+        "Phil Collins"
+      ],
+      "originalYear": 1999,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Tarzan",
+      "director": "Chris Buck"
+    },
+    {
+      "id": "film-a7b2169bab",
+      "spotifyTrackUri": "spotify:track:2GLyruWagsv8o7aGNXboH1",
+      "isrc": "USWD10936987",
+      "title": "Almost There",
+      "artists": [
+        "Anika Noni Rose"
+      ],
+      "originalYear": 2009,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Princesse et la Grenouille",
+      "director": "Ron Clements"
+    },
+    {
+      "id": "film-1dc8ea931b",
+      "spotifyTrackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl",
+      "isrc": "USWD11054842",
+      "title": "I See the Light",
+      "artists": [
+        "Mandy Moore",
+        "Zachary Levi"
+      ],
+      "originalYear": 2010,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Raiponce",
+      "director": "Byron Howard"
+    },
+    {
+      "id": "film-88854cf665",
+      "spotifyTrackUri": "spotify:track:077IVIW6uv1lL78x7a3Oc3",
+      "isrc": "USWD11677601",
+      "title": "How Far I'll Go",
+      "artists": [
+        "Alessia Cara",
+        "Disney"
+      ],
+      "originalYear": 2016,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Vaiana, la légende du bout du monde",
+      "director": "Ron Clements"
+    },
+    {
+      "id": "film-e273c57c69",
+      "spotifyTrackUri": "spotify:track:2tjtlV1K9E7GDq0s8KthjF",
+      "isrc": "USWD11783640",
+      "title": "Remember Me",
+      "artists": [
+        "Miguel",
+        "Natalia Lafourcade"
+      ],
+      "originalYear": 2017,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Coco",
+      "director": "Lee Unkrich"
+    },
+    {
+      "id": "film-7ab97f59f5",
+      "spotifyTrackUri": "spotify:track:2stkLJ0JNcXkIRDNF3ld6c",
+      "isrc": "USWD10110108",
+      "title": "You've Got a Friend in Me",
+      "artists": [
+        "Randy Newman"
+      ],
+      "originalYear": 1995,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Toy Story",
+      "director": "John Lasseter"
+    },
+    {
+      "id": "film-fd7422b177",
+      "spotifyTrackUri": "spotify:track:7xf3S6Bv8hDqOtevZou602",
+      "isrc": "USWD10210157",
+      "title": "If I Didn't Have You",
+      "artists": [
+        "Billy Crystal",
+        "John Goodman"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Monstres et Cie",
+      "director": "Pete Docter"
+    },
+    {
+      "id": "film-fd897be91e",
+      "spotifyTrackUri": "spotify:track:6aNa4kHJL8rUECh4CjCy5S",
+      "isrc": "USWD10220404",
+      "title": "Everybody Wants to Be a Cat",
+      "artists": [
+        "Scatman Crothers",
+        "Phil Harris",
+        "Thurl Ravenscroft",
+        "Liz English"
+      ],
+      "originalYear": 1970,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Aristochats",
+      "director": "Wolfgang Reitherman"
+    },
+    {
+      "id": "film-74247f44fc",
+      "spotifyTrackUri": "spotify:track:7h5crXBSY5SSpXRIlklv74",
+      "isrc": "USWD10423008",
+      "title": "The Bare Necessities",
+      "artists": [
+        "Phil Harris",
+        "Bruce Reitherman"
+      ],
+      "originalYear": 1967,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Le Livre de la jungle",
+      "director": "Wolfgang Reitherman"
+    },
+    {
+      "id": "film-ad274fef95",
+      "spotifyTrackUri": "spotify:track:6oYkwjI1TKP9D0Y9II1GT7",
+      "isrc": "USWD10220463",
+      "title": "Under the Sea",
+      "artists": [
+        "Alan Menken",
+        "Howard Ashman",
+        "Samuel E. Wright",
+        "Disney"
+      ],
+      "originalYear": 1989,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Petite Sirène",
+      "director": "Ron Clements"
+    },
+    {
+      "id": "film-c77d89b8b7",
+      "spotifyTrackUri": "spotify:track:7wq2pFMhQuCh4FLoT9btL0",
+      "isrc": "USWD10220295",
+      "title": "Cruella De Vil",
+      "artists": [
+        "Bill Lee"
+      ],
+      "originalYear": 1961,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les 101 Dalmatiens",
+      "director": "Clyde Geronimi"
+    },
+    {
+      "id": "film-a61a0818f3",
+      "spotifyTrackUri": "spotify:track:52xJxFP6TqMuO4Yt0eOkMz",
+      "isrc": "USWD12112915",
+      "title": "We Don't Talk About Bruno",
+      "artists": [
+        "Carolina Gaitán - La Gaita",
+        "Mauro Castillo",
+        "Adassa",
+        "Rhenzy Feliz",
+        "Diane Guerrero",
+        "Stephanie Beatriz",
+        "Encanto - Cast"
+      ],
+      "originalYear": 2021,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Encanto : La Fantastique Famille Madrigal",
+      "director": "Byron Howard"
+    },
+    {
+      "id": "film-2bd080084c",
+      "spotifyTrackUri": "spotify:track:5BMwpS4iYKR30kq9U9beaT",
+      "isrc": "USUG11600665",
+      "title": "City of Stars",
+      "artists": [
+        "Ryan Gosling"
+      ],
+      "originalYear": 2016,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La La Land",
+      "director": "Damien Chazelle"
+    },
+    {
+      "id": "film-7f50219930",
+      "spotifyTrackUri": "spotify:track:45aBsnKRWUzhwbcqOJLwfe",
+      "isrc": "USAT21704622",
+      "title": "This Is Me",
+      "artists": [
+        "Keala Settle",
+        "The Greatest Showman Ensemble"
+      ],
+      "originalYear": 2017,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "The Greatest Showman",
+      "director": "Michael Gracey"
+    },
+    {
+      "id": "film-ba16b99509",
+      "spotifyTrackUri": "spotify:track:26b2c6d8TBOSNQznQXFdQa",
+      "isrc": "USLIC0602168",
+      "title": "And I Am Telling You I'm Not Going",
+      "artists": [
+        "Jennifer Hudson"
+      ],
+      "originalYear": 2006,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Dreamgirls",
+      "director": "Bill Condon"
+    },
+    {
+      "id": "film-9dfdc526f7",
+      "spotifyTrackUri": "spotify:track:1fYm09PP9E06oukOTlNFmw",
+      "isrc": "USIR10110329",
+      "title": "Come What May",
+      "artists": [
+        "Nicole Kidman",
+        "Ewan McGregor"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Moulin Rouge !",
+      "director": "Baz Luhrmann"
+    },
+    {
+      "id": "film-4ee75769e7",
+      "spotifyTrackUri": "spotify:track:2VxeLyX666F8uXCJ0dZF8B",
+      "isrc": "USUM71813192",
+      "title": "Shallow",
+      "artists": [
+        "Lady Gaga",
+        "Bradley Cooper"
+      ],
+      "originalYear": 2018,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "A Star Is Born",
+      "director": "Bradley Cooper"
+    },
+    {
+      "id": "film-21f3339386",
+      "spotifyTrackUri": "spotify:track:5Z01UMMf7V1o0MzF86s6WJ",
+      "isrc": "USIR10211559",
+      "title": "Lose Yourself",
+      "artists": [
+        "Eminem"
+      ],
+      "originalYear": 2002,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "8 Mile",
+      "director": "Curtis Hanson"
+    },
+    {
+      "id": "film-5852c9923c",
+      "spotifyTrackUri": "spotify:track:1uvyZBs4IZYRebHIB1747m",
+      "isrc": "USWB10001880",
+      "title": "Purple Rain",
+      "artists": [
+        "Prince"
+      ],
+      "originalYear": 1984,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Purple Rain",
+      "director": "Albert Magnoli"
+    },
+    {
+      "id": "film-e82674f183",
+      "spotifyTrackUri": "spotify:track:7r0EUONfPUZ8SD1vu4ro27",
+      "isrc": "GBAYE6400302",
+      "title": "Goldfinger",
+      "artists": [
+        "Shirley Bassey"
+      ],
+      "originalYear": 1964,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Goldfinger",
+      "director": "Guy Hamilton"
+    },
+    {
+      "id": "film-6ab7ed0f98",
+      "spotifyTrackUri": "spotify:track:49RUdNvwSiUTC8fBh4KKoC",
+      "isrc": "USMG27700012",
+      "title": "Nobody Does It Better",
+      "artists": [
+        "Carly Simon"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "L'Espion qui m'aimait",
+      "director": "Lewis Gilbert"
+    },
+    {
+      "id": "film-a7e93d932d",
+      "spotifyTrackUri": "spotify:track:0XCszZIzEncBpgAMkKoDB2",
+      "isrc": "USMG27900001",
+      "title": "Moonraker",
+      "artists": [
+        "Shirley Bassey"
+      ],
+      "originalYear": 1979,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Moonraker",
+      "director": "Lewis Gilbert"
+    },
+    {
+      "id": "film-3c230411ba",
+      "spotifyTrackUri": "spotify:track:75R2Yxuar6gM590OCbYJHn",
+      "isrc": "USWB10003330",
+      "title": "The Living Daylights",
+      "artists": [
+        "a-ha"
+      ],
+      "originalYear": 1987,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Tuer n'est pas jouer",
+      "director": "John Glen"
+    },
+    {
+      "id": "film-419ae661d8",
+      "spotifyTrackUri": "spotify:track:528QhCT2v3HgD71RmrSUNW",
+      "isrc": "GBAYE9500713",
+      "title": "GoldenEye",
+      "artists": [
+        "Tina Turner"
+      ],
+      "originalYear": 1995,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "GoldenEye",
+      "director": "Martin Campbell"
+    },
+    {
+      "id": "film-94e636bbc8",
+      "spotifyTrackUri": "spotify:track:6VObnIkLVruX4UVyxWhlqm",
+      "isrc": "GBBKS1200164",
+      "title": "Skyfall",
+      "artists": [
+        "Adele"
+      ],
+      "originalYear": 2012,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Skyfall",
+      "director": "Sam Mendes"
+    },
+    {
+      "id": "film-0f0f455b06",
+      "spotifyTrackUri": "spotify:track:1PWnAEQcbwQwK759otUbta",
+      "isrc": "GBUM71505354",
+      "title": "Writing's on the Wall",
+      "artists": [
+        "Sam Smith"
+      ],
+      "originalYear": 2015,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "007 Spectre",
+      "director": "Sam Mendes"
+    },
+    {
+      "id": "film-f8add499f6",
+      "spotifyTrackUri": "spotify:track:3m0y8qLoznUYi73SUBP8GI",
+      "isrc": "QZ4KE1600002",
+      "title": "Ghostbusters",
+      "artists": [
+        "Ray Parker Jr."
+      ],
+      "originalYear": 1984,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "SOS Fantômes",
+      "director": "Ivan Reitman"
+    },
+    {
+      "id": "film-606eb4ef61",
+      "spotifyTrackUri": "spotify:track:15MJ5NThPjj6xhPcts8MiY",
+      "isrc": "USSM19801613",
+      "title": "Take My Breath Away",
+      "artists": [
+        "Berlin"
+      ],
+      "originalYear": 1986,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Top Gun",
+      "director": "Tony Scott"
+    },
+    {
+      "id": "film-4dadbaee1e",
+      "spotifyTrackUri": "spotify:track:6W7ztLBiRzBN46ZaPAcQ0F",
+      "isrc": "USRC10300895",
+      "title": "(I've Had) The Time of My Life",
+      "artists": [
+        "Bill Medley",
+        "Jennifer Warnes"
+      ],
+      "originalYear": 1987,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Dirty Dancing",
+      "director": "Emile Ardolino"
+    },
+    {
+      "id": "film-199c3adc0e",
+      "spotifyTrackUri": "spotify:track:2HHtWyy5CgaQbC7XSoOb0e",
+      "isrc": "USVR19300001",
+      "title": "Eye of the Tiger",
+      "artists": [
+        "Survivor"
+      ],
+      "originalYear": 1982,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Rocky III : L'Œil du tigre",
+      "director": "Sylvester Stallone"
+    },
+    {
+      "id": "film-d37c167ef2",
+      "spotifyTrackUri": "spotify:track:4zXa17K83Pp6N2yXdVc2sv",
+      "isrc": "USUM70981433",
+      "title": "You're the Best",
+      "artists": [
+        "Joe \"Bean\" Esposito"
+      ],
+      "originalYear": 1984,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Karaté Kid",
+      "director": "John G. Avildsen"
+    },
+    {
+      "id": "film-347fcf8ab3",
+      "spotifyTrackUri": "spotify:track:0B9x2BRHqj3Qer7biM3pU3",
+      "isrc": "NLF057890004",
+      "title": "You're the One That I Want",
+      "artists": [
+        "John Travolta",
+        "Olivia Newton-John"
+      ],
+      "originalYear": 1978,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Grease",
+      "director": "Randal Kleiser"
+    },
+    {
+      "id": "film-55f3655b63",
+      "spotifyTrackUri": "spotify:track:4UDmDIqJIbrW0hMBQMFOsM",
+      "isrc": "GBA077700130",
+      "title": "Stayin' Alive",
+      "artists": [
+        "Bee Gees"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Fièvre du samedi soir",
+      "director": "John Badham"
+    },
+    {
+      "id": "film-4942bf7ffb",
+      "spotifyTrackUri": "spotify:track:4eHbdreAnSOrDDsFfc4Fpm",
+      "isrc": "USAR19200110",
+      "title": "I Will Always Love You",
+      "artists": [
+        "Whitney Houston"
+      ],
+      "originalYear": 1992,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Bodyguard",
+      "director": "Mick Jackson"
+    },
+    {
+      "id": "film-d91ac815c4",
+      "spotifyTrackUri": "spotify:track:2FK7fxjzQEXD7Z32HSF0Hl",
+      "isrc": "USSM19700762",
+      "title": "Men in Black",
+      "artists": [
+        "Will Smith"
+      ],
+      "originalYear": 1997,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Men in Black",
+      "director": "Barry Sonnenfeld"
+    },
+    {
+      "id": "film-8008c064a0",
+      "spotifyTrackUri": "spotify:track:2olVm1lHicpveMAo4AUDRB",
+      "isrc": "USCA20600519",
+      "title": "The Power of Love",
+      "artists": [
+        "Huey Lewis & The News"
+      ],
+      "originalYear": 1985,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Retour vers le futur",
+      "director": "Robert Zemeckis"
+    },
+    {
+      "id": "film-1e20855ff5",
+      "spotifyTrackUri": "spotify:track:0C9jZPUv4SuaXkuEQw6L40",
+      "isrc": "USDW10110177",
+      "title": "I'm a Believer",
+      "artists": [
+        "Smash Mouth"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Shrek",
+      "director": "Andrew Adamson"
+    },
+    {
+      "id": "film-60ccb94d0e",
+      "spotifyTrackUri": "spotify:track:7FQSD5JjWqGtS1BaQQiT6V",
+      "isrc": "USIR10400291",
+      "title": "Accidentally in Love",
+      "artists": [
+        "Counting Crows"
+      ],
+      "originalYear": 2004,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Shrek 2",
+      "director": "Andrew Adamson"
+    },
+    {
+      "id": "film-126dd04659",
+      "spotifyTrackUri": "spotify:track:60nZcImufyMA1MKQY3dcCH",
+      "isrc": "USQ4E1300686",
+      "title": "Happy",
+      "artists": [
+        "Pharrell Williams"
+      ],
+      "originalYear": 2013,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Moi, moche et méchant 2",
+      "director": "Pierre Coffin"
+    },
+    {
+      "id": "film-90d39df28e",
+      "spotifyTrackUri": "spotify:track:0UREO3QWbXJW3gOUXpK1am",
+      "isrc": "USJI19000013",
+      "title": "The Fresh Prince of Bel-Air Theme",
+      "artists": [
+        "DJ Jazzy Jeff & The Fresh Prince"
+      ],
+      "originalYear": 1990,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Le Prince de Bel-Air",
+      "director": "Andy Borowitz",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-9c0e98652b",
+      "spotifyTrackUri": "spotify:track:26bNrOZYAO8MISgmJ0aj11",
+      "isrc": "USMC18318513",
+      "title": "You Belong to the City",
+      "artists": [
+        "Glenn Frey"
+      ],
+      "originalYear": 1984,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Deux flics à Miami",
+      "director": "Anthony Yerkovich",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-e901e6d20f",
+      "spotifyTrackUri": "spotify:track:2LfKXUhCgifRFSvOObnN6v",
+      "isrc": "GBAJH1100066",
+      "title": "Sometimes",
+      "artists": [
+        "Erasure"
+      ],
+      "originalYear": 1984,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Deux flics à Miami",
+      "director": "Anthony Yerkovich",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-bd0e803d25",
+      "spotifyTrackUri": "spotify:track:1gci2QBGH5nzPWePv6ATom",
+      "isrc": "NLF360801720",
+      "title": "Reality",
+      "artists": [
+        "Vladimir Cosma",
+        "Richard Sanderson"
+      ],
+      "originalYear": 1980,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Boum",
+      "director": "Claude Pinoteau"
+    },
+    {
+      "id": "film-d5d6350c3e",
+      "spotifyTrackUri": "spotify:track:0HfK6NPVb69533dKqTPokh",
+      "isrc": "FR26S2004005",
+      "title": "Vois sur ton chemin",
+      "artists": [
+        "Bruno Coulais",
+        "La Maîtrise de Saint Marc - LES CHORISTES"
+      ],
+      "originalYear": 2004,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Choristes",
+      "director": "Christophe Barratier"
+    },
+    {
+      "id": "film-20411f0629",
+      "spotifyTrackUri": "spotify:track:6x4tKaOzfNJpEJHySoiJcs",
+      "isrc": "DEH259900010",
+      "title": "Mambo No. 5",
+      "artists": [
+        "Lou Bega"
+      ],
+      "originalYear": 2000,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Taxi 2",
+      "director": "Gérard Krawczyk"
+    },
+    {
+      "id": "film-594ea53461",
+      "spotifyTrackUri": "spotify:track:7Jv1FEsjvFUDZ4QAbRGi1m",
+      "isrc": "FRR419300018",
+      "title": "Enae Volare (Générique de fin)",
+      "artists": [
+        "Guy Protheroe",
+        "Eric Lévi"
+      ],
+      "originalYear": 1993,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Visiteurs",
+      "director": "Jean-Marie Poiré"
+    },
+    {
+      "id": "film-6d690b7477",
+      "spotifyTrackUri": "spotify:track:5hrokyVrEj3Xa1oOXbd0jz",
+      "isrc": "FRT218100019",
+      "title": "Goldorak",
+      "artists": [
+        "Noam"
+      ],
+      "originalYear": 1975,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Goldorak",
+      "director": "Gō Nagai",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-b15849dc4d",
+      "spotifyTrackUri": "spotify:track:5CQicXbmn4biBV67z3H0qd",
+      "isrc": "FR6F30659110",
+      "title": "Albator",
+      "artists": [
+        "Compilation Générique TV"
+      ],
+      "originalYear": 1978,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Albator, le corsaire de l'espace",
+      "director": "Leiji Matsumoto",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-5bc75ca06a",
+      "spotifyTrackUri": "spotify:track:1wZjMvfSwcBUYV39f9WL5D",
+      "isrc": "FR6F30659130",
+      "title": "Candy",
+      "artists": [
+        "Compilation Générique TV"
+      ],
+      "originalYear": 1976,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Candy",
+      "director": "Kyōko Mizuki",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-62c1a513ac",
+      "spotifyTrackUri": "spotify:track:1FIhmSwsQOJ3ER0Q21bhgD",
+      "isrc": "FRT218200007",
+      "title": "Les cités d'or",
+      "artists": [
+        "Le Groupe Apollo"
+      ],
+      "originalYear": 1983,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Mystérieuses Cités d'or",
+      "director": "Jean Chalopin",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-db54abe2bf",
+      "spotifyTrackUri": "spotify:track:15xlGQMGayNU44xxwGNYVR",
+      "isrc": "FRR261406560",
+      "title": "Pokémon - Attrapez-les tous !",
+      "artists": [
+        "Le Club des Juniors"
+      ],
+      "originalYear": 1997,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Pokémon",
+      "director": "Satoshi Tajiri",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-90fddc4e65",
+      "spotifyTrackUri": "spotify:track:37y27Cto5ApRitMp06OrSs",
+      "isrc": "FRE428800040",
+      "title": "Dragon Ball Z - Générique",
+      "artists": [
+        "Ariane"
+      ],
+      "originalYear": 1989,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Dragon Ball Z",
+      "director": "Akira Toriyama",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-03d24dda19",
+      "spotifyTrackUri": "spotify:track:1EK76pMUYRQ81UBUxmjmJp",
+      "isrc": "FRR261406660",
+      "title": "Olive et Tom",
+      "artists": [
+        "Le Club des Juniors"
+      ],
+      "originalYear": 1983,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Olive et Tom",
+      "director": "Yōichi Takahashi",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-464a45a18b",
+      "spotifyTrackUri": "spotify:track:0VlxbRzdOyA56BviBK9vkc",
+      "isrc": "USMC16846967",
+      "title": "Mission: Impossible Theme",
+      "artists": [
+        "Lalo Schifrin"
+      ],
+      "originalYear": 1966,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Mission impossible",
+      "director": "Bruce Geller",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-a7f49810fb",
+      "spotifyTrackUri": "spotify:track:2VSFOKsNSH9dBQ8BIZ8o2m",
+      "isrc": "GBN8H1318498",
+      "title": "James Bond Theme",
+      "artists": [
+        "John Barry",
+        "Monty Norman"
+      ],
+      "originalYear": 1962,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "James Bond contre Dr No",
+      "director": "Terence Young"
+    },
+    {
+      "id": "film-2cb495e01a",
+      "spotifyTrackUri": "spotify:track:5xrRyTIlP1vem6AdyYklJL",
+      "isrc": "USWD11785379",
+      "title": "Star Wars Main Title",
+      "artists": [
+        "John Williams",
+        "London Symphony Orchestra"
+      ],
+      "originalYear": 1977,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Star Wars, épisode IV : Un nouvel espoir",
+      "director": "George Lucas"
+    },
+    {
+      "id": "film-256cf16152",
+      "spotifyTrackUri": "spotify:track:5duZVZ4m1TaJDTCbeHG8TG",
+      "isrc": "USC4R0816782",
+      "title": "Raiders March",
+      "artists": [
+        "John Williams"
+      ],
+      "originalYear": 1981,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Aventuriers de l'arche perdue",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": "film-0d37cbb7ea",
+      "spotifyTrackUri": "spotify:track:2TZbQZXOuR8osP2AK8yYMN",
+      "isrc": "USMC19340943",
+      "title": "Theme from Jurassic Park",
+      "artists": [
+        "John Williams"
+      ],
+      "originalYear": 1993,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Jurassic Park",
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": "film-b658b88888",
+      "spotifyTrackUri": "spotify:track:4AD2dterIUjNt1LFNI9Bvi",
+      "isrc": "USWD10321341",
+      "title": "He's a Pirate",
+      "artists": [
+        "Klaus Badelt"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+      "director": "Gore Verbinski"
+    },
+    {
+      "id": "film-bd6769a8ca",
+      "spotifyTrackUri": "spotify:track:7iXYRR70wewzVYzWScm99j",
+      "isrc": "USNPD0600582",
+      "title": "Gonna Fly Now",
+      "artists": [
+        "Bill Conti"
+      ],
+      "originalYear": 1976,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Rocky",
+      "director": "John G. Avildsen"
+    },
+    {
+      "id": "film-b64e8a2432",
+      "spotifyTrackUri": "spotify:track:3qm6zpkCBmWrJJS9Sfu5kz",
+      "isrc": "USWD11785366",
+      "title": "The Imperial March",
+      "artists": [
+        "John Williams",
+        "London Symphony Orchestra"
+      ],
+      "originalYear": 1980,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Star Wars, épisode V : L'Empire contre-attaque",
+      "director": "Irvin Kershner"
+    },
+    {
+      "id": "film-c00ada9c00",
+      "spotifyTrackUri": "spotify:track:3ik79qXV15D3ae33uveasw",
+      "isrc": "USSM10028116",
+      "title": "Love Song for a Vampire",
+      "artists": [
+        "Annie Lennox"
+      ],
+      "originalYear": 1992,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Dracula",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": "film-b26cd8ff06",
+      "spotifyTrackUri": "spotify:track:1Eb90nmqTrxylKFhcUzW8P",
+      "isrc": "USAM19190012",
+      "title": "(Everything I Do) I Do It for You",
+      "artists": [
+        "Bryan Adams"
+      ],
+      "originalYear": 1991,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Robin des Bois, prince des voleurs",
+      "director": "Kevin Reynolds"
+    },
+    {
+      "id": "film-7e0d77cc5a",
+      "spotifyTrackUri": "spotify:track:225xvV8r1yKMHErSWivnow",
+      "isrc": "USSM19801545",
+      "title": "I Don't Want to Miss a Thing",
+      "artists": [
+        "Aerosmith"
+      ],
+      "originalYear": 1998,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Armageddon",
+      "director": "Michael Bay"
+    },
+    {
+      "id": "film-6b375ecf57",
+      "spotifyTrackUri": "spotify:track:64TGtWC8WLzVt7PamUo9EO",
+      "isrc": "USIR29900128",
+      "title": "She",
+      "artists": [
+        "Elvis Costello"
+      ],
+      "originalYear": 1999,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Coup de foudre à Notting Hill",
+      "director": "Roger Michell"
+    },
+    {
+      "id": "film-c478f61bef",
+      "spotifyTrackUri": "spotify:track:2AogRMqARWyUP7VQ3gmSoY",
+      "isrc": "USCRB0000703",
+      "title": "Can't Fight the Moonlight",
+      "artists": [
+        "LeAnn Rimes"
+      ],
+      "originalYear": 2000,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Coyote Girls",
+      "director": "David McNally"
+    },
+    {
+      "id": "film-71f11b02a3",
+      "spotifyTrackUri": "spotify:track:6BlqCBCwctaYLiCG26sBQk",
+      "isrc": "USHR12041185",
+      "title": "I Will Follow Him",
+      "artists": [
+        "Deloris & The Sisters"
+      ],
+      "originalYear": 1992,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Sister Act",
+      "director": "Emile Ardolino"
+    },
+    {
+      "id": "film-fead46a954",
+      "spotifyTrackUri": "spotify:track:2RzJwBCXsS1VnjDm2jKKAa",
+      "isrc": "USJI19610437",
+      "title": "I Believe I Can Fly",
+      "artists": [
+        "R. Kelly"
+      ],
+      "originalYear": 1996,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Space Jam",
+      "director": "Joe Pytka"
+    },
+    {
+      "id": "film-966158db9b",
+      "spotifyTrackUri": "spotify:track:3UKnCF9IyoTPRdbB5vg3RP",
+      "isrc": "US3M59676413",
+      "title": "Independence Day",
+      "artists": [
+        "David Arnold"
+      ],
+      "originalYear": 1996,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Independence Day",
+      "director": "Roland Emmerich"
+    },
+    {
+      "id": "film-254c6b0e1f",
+      "spotifyTrackUri": "spotify:track:6umX518VohIob6IipK3WYM",
+      "isrc": "USAT20804057",
+      "title": "Decode",
+      "artists": [
+        "Paramore"
+      ],
+      "originalYear": 2008,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Twilight, chapitre I : Fascination",
+      "director": "Catherine Hardwicke"
+    },
+    {
+      "id": "film-8e866a3afa",
+      "spotifyTrackUri": "spotify:track:1n8NKQRg8LVHy7oUhUgbFF",
+      "isrc": "USAT20109275",
+      "title": "Hedwig's Theme",
+      "artists": [
+        "John Williams"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Harry Potter à l'école des sorciers",
+      "director": "Chris Columbus"
+    },
+    {
+      "id": "film-04f702b9e4",
+      "spotifyTrackUri": "spotify:track:1wIQ2Nm0raqOapHK4bCD3J",
+      "isrc": "GBAHT0108643",
+      "title": "May It Be",
+      "artists": [
+        "Enya"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Le Seigneur des anneaux : La Communauté de l'anneau",
+      "director": "Peter Jackson"
+    },
+    {
+      "id": "film-69faa42195",
+      "spotifyTrackUri": "spotify:track:0gSEyG7pOFuHM05433EibX",
+      "isrc": "USRE10301634",
+      "title": "Into the West",
+      "artists": [
+        "Annie Lennox"
+      ],
+      "originalYear": 2003,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Le Seigneur des anneaux : Le Retour du roi",
+      "director": "Peter Jackson"
+    },
+    {
+      "id": "film-9a610ca628",
+      "spotifyTrackUri": "spotify:track:6Ac4NVYYl2U73QiTt11ZKd",
+      "isrc": "SEAMA7343050",
+      "title": "Hooked on a Feeling",
+      "artists": [
+        "Blue Swede",
+        "Björn Skifs"
+      ],
+      "originalYear": 2014,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Les Gardiens de la Galaxie",
+      "director": "James Gunn"
+    },
+    {
+      "id": "film-d572dee1e0",
+      "spotifyTrackUri": "spotify:track:7tHL0GHL5FElTmH7feqQMT",
+      "isrc": "GBBLY2204547",
+      "title": "Paddington Bear Theme (Overture)",
+      "artists": [
+        "Freddie Williams & The Master Singers",
+        "Michael Hordern"
+      ],
+      "originalYear": 1975,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Paddington",
+      "director": "Michael Bond",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-8278040bcc",
+      "spotifyTrackUri": "spotify:track:3qulgfVZ2fDfjz6JiugH0E",
+      "isrc": "GBAJC1400004",
+      "title": "#SherlockLives",
+      "artists": [
+        "David Arnold",
+        "Michael Price"
+      ],
+      "originalYear": 2010,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Sherlock",
+      "director": "Steven Moffat",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-ad41b50d97",
+      "spotifyTrackUri": "spotify:track:1BXxq7WUyPOt7tbpvd2yXR",
+      "isrc": "QZ22B2028007",
+      "title": "Stranger Things Theme",
+      "artists": [
+        "Kyle Eric Dixon",
+        "Michael David Stein",
+        "Baltic House Orchestra"
+      ],
+      "originalYear": 2016,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Stranger Things",
+      "director": "frères Duffer",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-6ac76a127a",
+      "spotifyTrackUri": "spotify:track:3ISMDCuo2KDOC64nXz0Vah",
+      "isrc": "ES84S1800619",
+      "title": "Bella Ciao",
+      "artists": [
+        "Manu Pilas"
+      ],
+      "originalYear": 2017,
+      "difficulty": "medium",
+      "language": "it",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Casa de papel",
+      "director": "Álex Pina",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-ff8dd0795a",
+      "spotifyTrackUri": "spotify:track:2tPDmnGl14ew09jOGYBsl3",
+      "isrc": "FRIDO2615527",
+      "title": "The Persuaders theme",
+      "artists": [
+        "John Barry",
+        "The City of Prague Philharmonic Orchestra",
+        "Chris Malone"
+      ],
+      "originalYear": 1971,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Amicalement vôtre",
+      "director": "Robert S. Baker",
+      "directorRole": "creator"
+    },
+    {
+      "id": "film-46d4f45df5",
+      "spotifyTrackUri": "spotify:track:7AaUxBAMKkUUf9bUSLw1NZ",
+      "isrc": "NLF360801820",
+      "title": "Your Eyes",
+      "artists": [
+        "Vladimir Cosma",
+        "Cook da Books"
+      ],
+      "originalYear": 1982,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "La Boum 2",
+      "director": "Claude Pinoteau"
+    },
+    {
+      "id": "film-9d865974b9",
+      "spotifyTrackUri": "spotify:track:1jLmVI46Yf0jzQkugZReIn",
+      "isrc": "QMTH31100021",
+      "title": "Dragonborn",
+      "artists": [
+        "Jeremy Soule",
+        "The Elder Scrolls"
+      ],
+      "originalYear": 2011,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "The Elder Scrolls V : Skyrim",
+      "director": "Todd Howard"
+    },
+    {
+      "id": "film-9a932ada6a",
+      "spotifyTrackUri": "spotify:track:14rZjW3RioG7WesZhYESso",
+      "isrc": "FR91U0100002",
+      "title": "Comptine d'un autre été, l'après-midi",
+      "artists": [
+        "Yann Tiersen"
+      ],
+      "originalYear": 2001,
+      "difficulty": "medium",
+      "language": "fr",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Le Fabuleux Destin d'Amélie Poulain",
+      "director": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "film-4f26b25570",
+      "spotifyTrackUri": "spotify:track:6eaGAiX5eyF9CGeHYo5GW4",
+      "isrc": "USWD11263668",
+      "title": "Main Titles",
+      "artists": [
+        "Danny Elfman"
+      ],
+      "originalYear": 2012,
+      "difficulty": "medium",
+      "language": "en",
+      "genre": "bande_originale",
+      "previewStartMs": 0,
+      "yearConfidence": 0.9,
+      "yearSource": "manual",
+      "categories": [
+        "musiques_de_films"
+      ],
+      "yearType": "releaseYear",
+      "excludedFromGeneralMix": true,
+      "filmTitle": "Frankenweenie",
+      "director": "Tim Burton"
+    }
+  ]
+}

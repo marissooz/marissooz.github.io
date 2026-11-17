@@ -1,8 +1,8 @@
 {
   "id": "films-series",
   "name": "Musiques de films et séries",
-  "version": 2,
-  "checksum": "45dc4d0965ce3df0aba5f5211efb8f97df081228e392a7bdbf18c6450f5d2777",
+  "version": 3,
+  "checksum": "14245f8b3952534699017a1a978ca5fabce1a0b1eae440bb990f7bd88150aabe",
   "cards": [
     {
       "id": "film-0d3a0186e7",
@@ -1935,31 +1935,6 @@
       "excludedFromGeneralMix": true,
       "filmTitle": "Les Gardiens de la Galaxie",
       "director": "James Gunn"
-    },
-    {
-      "id": "film-d572dee1e0",
-      "spotifyTrackUri": "spotify:track:7tHL0GHL5FElTmH7feqQMT",
-      "isrc": "GBBLY2204547",
-      "title": "Paddington Bear Theme (Overture)",
-      "artists": [
-        "Freddie Williams & The Master Singers",
-        "Michael Hordern"
-      ],
-      "originalYear": 1975,
-      "difficulty": "medium",
-      "language": "en",
-      "genre": "bande_originale",
-      "previewStartMs": 0,
-      "yearConfidence": 0.9,
-      "yearSource": "manual",
-      "categories": [
-        "musiques_de_films"
-      ],
-      "yearType": "releaseYear",
-      "excludedFromGeneralMix": true,
-      "filmTitle": "Paddington",
-      "director": "Michael Bond",
-      "directorRole": "creator"
     },
     {
       "id": "film-8278040bcc",

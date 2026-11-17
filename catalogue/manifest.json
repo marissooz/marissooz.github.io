@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generatedAt": "2026-11-16T21:19:52Z",
+  "generatedAt": "2026-11-17T06:04:14Z",
   "packs": [
     {
       "id": "generaliste",
@@ -21,10 +21,10 @@
     {
       "id": "films-series",
       "name": "Musiques de films et séries",
-      "version": 2,
-      "cardCount": 91,
+      "version": 3,
+      "cardCount": 90,
       "url": "https://marissooz.github.io/catalogue/packs/films-series-v1.json",
-      "checksum": "1b0c8df3dfb3dd5eb50ea0440da2565adda0785a66842d28721cf7583f1232c1"
+      "checksum": "278e125154c7eb0b0a9b72a868cb1ccf6175dea12f91919d245eeb25f3abcc21"
     }
   ]
 }
